@@ -13,7 +13,7 @@ app.use(cors());
 app.get("/api/data", (req, res) => {
   res.json(data);
 });
-app.get("api/resId",(req,res)=>{
+app.get("/api/resId",(req,res)=>{
   res.json(data1)
 })
 
