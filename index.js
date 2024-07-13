@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 3000;
 
 // Sample JSON data (replace this with your actual JSON data)
 const data = require("./data.json");
-const data1 = require("./data1.json");
+
 const data01 = require("./data01.json");
 const data02 = require("./data02.json");
 const data03 = require("./data03.json");
@@ -34,9 +34,7 @@ app.use(cors());
 app.get("/api/data", (req, res) => {
   res.json(data);
 });
-app.get("/api/resId",(req,res)=>{
-  res.json(data1)
-})
+
 app.get("/api/711368", (req, res) => {
   res.json(data01);
 });
