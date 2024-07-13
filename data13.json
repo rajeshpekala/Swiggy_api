@@ -1,0 +1,2427 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+            "text": "Pastas By Pizza Hut",
+            "headerStyling": {
+              "textColor": "text_Highest_Emphasis",
+              "textVariant": "header_H3_Black"
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+            "tabs": [
+              {
+                "id": "Order Online",
+                "title": "Order Online"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "826449",
+              "name": "Pastas By Pizza Hut",
+              "city": "Bangalore",
+              "slugs": {
+                "restaurant": "pastas-by-pizza-hut-maruti-nagar-koramangala",
+                "city": "bangalore"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "67d17abfeb3a5da6103b9424f6dbe973",
+              "locality": "Maruti Nagar",
+              "areaName": "Madiwala",
+              "costForTwo": "40000",
+              "costForTwoMessage": "₹400 for two",
+              "cuisines": ["Pastas"],
+              "avgRating": 3.6,
+              "feeDetails": {},
+              "parentId": "306806",
+              "avgRatingString": "3.6",
+              "totalRatingsString": "50+ ratings",
+              "sla": {
+                "restaurantId": "826449",
+                "lastMileTravel": 855.2,
+                "serviceability": "NON_SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "lastMileTravelString": "855.2 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2024-07-14 06:00:00",
+                "visibility": true,
+                "opened": true,
+                "restaurantClosedMeta": {}
+              },
+              "aggregatedDiscountInfo": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "50% off | Use SWIGGY50",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "40% off | Use SPECIALS",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "50% off up to ₹100 | Use code SWIGGY50",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "40% off up to ₹80 on select items | Use code SPECIALS",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "visible": true
+              },
+              "badges": {},
+              "slugString": "pastas-by-pizza-hut-maruti-nagar-koramangala",
+              "multiOutlet": true,
+              "isOpen": true,
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "18 (old no.1), 1st A main road, Maruti Nagar Bangalore Madiwala"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "Pastas"
+                }
+              ],
+              "totalRatings": 50,
+              "aggregatedDiscountInfoV2": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "50% off | Use SWIGGY50",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "40% off | Use SPECIALS",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "50% off up to ₹100 | Use code SWIGGY50",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "40% off up to ₹80 on select items | Use code SPECIALS",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "couponDetailsCta": "View coupon details"
+              },
+              "type": "F",
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/826449"
+              },
+              "ratingSlab": "RATING_SLAB_4",
+              "availabilityServiceabilityMessage": "Does not deliver to your location",
+              "orderabilityCommunication": {
+                "title": {
+                  "text": "Wish you were"
+                },
+                "subTitle": {
+                  "text": "CLOSER!"
+                },
+                "message": {
+                  "text": "This location is outside the outlet's delivery area",
+                  "textColour": "negative"
+                },
+                "customIcon": {
+                  "bgGradientColorStart": "#F64C41",
+                  "bgGradientColorEnd": "#E53554"
+                }
+              },
+              "hasBestsellerItems": true,
+              "nearestOutletNudge": {
+                "nearestOutletInfo": {
+                  "siblingOutlet": {
+                    "id": "826434",
+                    "city": "0",
+                    "slugs": {},
+                    "areaName": "Chakala",
+                    "costForTwo": "0",
+                    "feeDetails": {},
+                    "sla": {
+                      "deliveryTime": 43,
+                      "lastMileTravel": 1.6,
+                      "slaString": "43 MINS",
+                      "lastMileTravelString": "1.6 km",
+                      "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                      "restaurantClosedMeta": {}
+                    },
+                    "aggregatedDiscountInfo": {
+                      "visible": true
+                    },
+                    "badges": {},
+                    "aggregatedDiscountInfoV2": {
+                      "visible": true
+                    },
+                    "availabilityServiceabilityMessage": "Temporarily closed for delivery",
+                    "cartOrderabilityNudgeBanner": {
+                      "parameters": {},
+                      "presentation": {}
+                    }
+                  }
+                },
+                "nearestOutletComms": {
+                  "title": {
+                    "text": "Don't worry! Try our outlet that's delivering"
+                  },
+                  "subTitle": {
+                    "text": "Switch to the fastest alternate"
+                  }
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {},
+                "presentation": {}
+              },
+              "latLong": "12.92609704,77.6154467",
+              "backgroundImageOverlayInfo": {}
+            },
+            "analytics": {}
+          },
+          "relevance": {
+            "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+            "sectionId": "POP_UP_CROUTON_MENU"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "rows": 1,
+              "columns": 5,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 12,
+              "lineSpacing": 10,
+              "widgetPadding": {},
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 10,
+                  "right": 10,
+                  "bottom": 16
+                }
+              },
+              "scrollBar": {}
+            },
+            "id": "offerCollectionWidget_UX4",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                "offers": [
+                  {
+                    "info": {
+                      "header": "50% OFF UPTO ₹100",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["979f8cda-3ee9-4723-9f06-93d2eb3bc4e5"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE SWIGGY50",
+                      "description": "ABOVE ₹149",
+                      "offerType": "offers",
+                      "restId": "826449",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "40% OFF UPTO ₹80",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["9703c46d-0f4a-4bbb-9a4a-6b85a34a37c7"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE SPECIALS",
+                      "description": "ON SELECT ITEMS",
+                      "offerType": "offers",
+                      "restId": "826449",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "10% OFF UPTO ₹200",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/12/2de23314-4b8c-4de8-9d90-d5747fbb3832_Hsbccc.png",
+                      "offerIds": ["b50dac91-e76e-46e8-a247-19a57214fb39"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "NO CODE REQUIRED",
+                      "description": "ABOVE ₹499",
+                      "offerType": "offers",
+                      "restId": "826449",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/12/2de23314-4b8c-4de8-9d90-d5747fbb3832_Hsbccc.png",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "20% OFF UPTO ₹125",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/6/30/5652719b-c6bc-4f4b-a5d7-39917a6ffdf6_BOBMenuVisibilityLogo.png",
+                      "offerIds": ["69b0ec3d-0b23-44b3-9bb5-1c9a923a1b2a"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE BOBDC",
+                      "description": "ABOVE ₹299",
+                      "offerType": "offers",
+                      "restId": "826449",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/6/30/5652719b-c6bc-4f4b-a5d7-39917a6ffdf6_BOBMenuVisibilityLogo.png",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "10% OFF UPTO ₹150",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/3/a6404599-9a7c-41f2-be8c-185da182b1f2_HSBC.png",
+                      "offerIds": ["b2802d50-6c45-43b1-adb4-eb5e4b8b74d7"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE HSBCFEST",
+                      "description": "ABOVE ₹499",
+                      "offerType": "offers",
+                      "restId": "826449",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/3/a6404599-9a7c-41f2-be8c-185da182b1f2_HSBC.png",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  }
+                ],
+                "habitMilestoneInfo": {
+                  "callout": {}
+                },
+                "loyaltyDiscoverPresentationInfo": {
+                  "logoCtx": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "badges": {},
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "offersFilter": {
+                        "attributes": {
+                          "displayText": "40% OFF"
+                        }
+                      },
+                      "topRatedFilter": {
+                        "attributes": {
+                          "displayText": "Ratings 4.0+"
+                        }
+                      },
+                      "kidsCategoryFilter": {
+                        "attributes": {
+                          "displayText": "Kids Favourites",
+                          "tooltip": {
+                            "enabled": true,
+                            "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                          }
+                        }
+                      },
+                      "vegFilter": {
+                        "attributes": {
+                          "displayText": "VEG"
+                        }
+                      },
+                      "nonvegFilter": {
+                        "attributes": {
+                          "displayText": "NONVEG"
+                        }
+                      }
+                    },
+                    "relevance": {
+                      "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                      "sectionId": "MENU_FILTER_TOGGLE"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Pastas",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562625",
+                              "name": "Cosy Comfort White Sauce Pasta",
+                              "category": "Pastas",
+                              "description": "Fusilli pasta baked in rich white sauce along with onion, green capsicum, red capsicum and sweet corn (206 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/14/3ae577cc-0b89-4166-8152-ff86dad67b70_80319ecf-d67b-43f8-8d33-649922b9948c.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 18900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.0",
+                                  "ratingCount": "17 ratings",
+                                  "ratingCountV2": "17"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562667",
+                              "name": "Spicy Red Schezwan Chicken Pasta",
+                              "category": "Pastas",
+                              "description": "Fusilli pasta baked in spicy schezwan sauce along with schezwan chicken meatballs, green capsicum, onion, red capsicum and red paprika (178 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/1/961ce958-1df0-4cfd-aefc-0bc73ded4c98_934852fd-7632-440e-9645-c9ffa9dfb5f9.jpg",
+                              "inStock": 1,
+                              "price": 19900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562646",
+                              "name": "Penne McN Cheese & Chicken Pasta",
+                              "category": "Pastas",
+                              "description": "Penne pasta baked in flavourful sauce along with herbed chicken, green capsicum, onion and red capsicum topped with 100% mozzarella cheese (224 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                              "imageId": "pfwyjsgapi6u5hswj302",
+                              "inStock": 1,
+                              "price": 22900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.4",
+                                  "ratingCount": "4 ratings",
+                                  "ratingCountV2": "4"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562684",
+                              "name": "Tandoori Murg Pasta",
+                              "category": "Pastas",
+                              "description": "Penne pasta baked in your favorite tandoori sauce along with with chicken tikka, green capsicum, onion and red capsicum (214 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                              "imageId": "afetxjkwly3qhzheetjm",
+                              "inStock": 1,
+                              "price": 18900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.0",
+                                  "ratingCount": "7 ratings",
+                                  "ratingCountV2": "7"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562660",
+                              "name": "Penne McN Cheese Pasta",
+                              "category": "Pastas",
+                              "description": "Penne pasta baked in flavorful sauce along with green capsicum, onion and red capsicum topped with 100% mozzarella cheese (227 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                              "imageId": "skfbhz264euhvsoayprt",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 20900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.1",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562611",
+                              "name": "Cosy Comfort Chicken White Sauce Pasta",
+                              "category": "Pastas",
+                              "description": "Fusilli pasta baked in rich white sauce along with chicken sausage, onion, green capsicum and red capsicum (266 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                              "imageId": "qthvzkco6mtxndgjjz89",
+                              "inStock": 1,
+                              "price": 20900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "1.9",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562633",
+                              "name": "Classic Mushroom Pasta",
+                              "category": "Pastas",
+                              "description": "Fusilli pasta baked in classic mushroom sauce (230 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/14/e54107cd-e805-4fee-b226-ff4d57ac60b0_9a133864-1a64-44d3-ac73-57b20e3c2236.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 20900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.4",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562675",
+                              "name": "Spicy Red Schezwan Pasta",
+                              "category": "Pastas",
+                              "description": "Fusilli pasta baked in spicy schezwan sauce, along with green capsicum, onion, red capsicum and paprika for an added zing (190 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/1/bdf186e8-caf6-48fb-b4ec-7be8fddb1644_efc314f8-1af4-4795-8718-0a744fdede6d.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562693",
+                              "name": "Tandoori Paneer Pasta",
+                              "category": "Pastas",
+                              "description": "Penne pasta baked in your favorite tandoori sauce along with flavorful soft paneer, green capsicum, onion and red capsicum (231 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                              "imageId": "f1bnld6zrlutewe7vi9a",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562700",
+                              "name": "Tomato Twist Red Sauce Pasta",
+                              "category": "Pastas",
+                              "description": "Fusilli pasta baked in tangy flavorful tomato sauce infused with heavenly herbs & spices, along with green capsicum, onion and red capsicum (175 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/7/df80e92e-e161-4751-b986-2949977782d5_93c0908b-bf74-42b5-bf8d-3a09214c7e32.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Pasta Meals & Deals",
+                      "categories": [
+                        {
+                          "title": "Pasta Meal For 1",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "136562459",
+                                  "name": "Cosy Comfort Non Veg Meal for 1",
+                                  "category": "Pasta Meals & Deals",
+                                  "description": "Get a cosy comfort chicken white sauce pasta along with your favourite classic breadstix",
+                                  "imageId": "3cd1268e4034e9821c0bdc033f942e12",
+                                  "inStock": 1,
+                                  "price": 26900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "136562574",
+                                  "name": "Tandoori Chicken Tikka Pasta Meal for 1",
+                                  "category": "Pasta Meals & Deals",
+                                  "description": "Get a tandoori chicken tikka pasta along with your favourite classic breadstix",
+                                  "imageId": "ed7018669211289066ff388624a9f638",
+                                  "inStock": 1,
+                                  "price": 24900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "136562473",
+                                  "name": "Cosy Comfort Veg Meal for 1",
+                                  "category": "Pasta Meals & Deals",
+                                  "description": "Get a cosy comfort white sauce pasta along with your favourite classic breadstix",
+                                  "imageId": "799717684d5aaa415ada4eff12069dd7",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 24900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "136562510",
+                                  "name": "Classic Mushroom Meal for 1",
+                                  "category": "Pasta Meals & Deals",
+                                  "description": "Get a classic mushroom pasta along with your favourite classic breadstix",
+                                  "imageId": "aadb8f570fbed36260e8423e8c5edd95",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 26900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "136562498",
+                                  "name": "Spicy Chicken Schezwan Pasta Meal for 1",
+                                  "category": "Pasta Meals & Deals",
+                                  "description": "Get a spicy red schezwan chicken pasta along with your favourite classic breadstix",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/3/96eb0885-8e8a-432f-be12-487dee0e4cb7_1248ef43-76cd-49dd-9277-f6b952fdf452.png",
+                                  "inStock": 1,
+                                  "price": 25900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "136562544",
+                                  "name": "McN Cheese Veg Pasta Meal for 1",
+                                  "category": "Pasta Meals & Deals",
+                                  "description": "Get a penne McN cheese veg pasta along with your favorite classic breadstix",
+                                  "imageId": "ec7aeba3734c09c6dfb0c5c0a7a3e622",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 26900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "136562589",
+                                  "name": "Tandoori Paneer Pasta Meal for 1",
+                                  "category": "Pasta Meals & Deals",
+                                  "description": "Get a tandoori paneer pasta along with your favourite classic breadstix",
+                                  "imageId": "b0b7235ce32bc91db431a8d722a13c98",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 22900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "136562566",
+                                  "name": "Spiced Tomato Twist Veg Pasta Meal for 1",
+                                  "category": "Pasta Meals & Deals",
+                                  "description": "Get a spiced tomato red sauce pasta along with your favourite classic breadstix",
+                                  "imageId": "f90019c302bef282395ecc09710aa4b4",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 22900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "136562599",
+                                  "name": "Spicy Veg Schezwan Pasta Meal for 1",
+                                  "category": "Pasta Meals & Deals",
+                                  "description": "Get a spicy red schezwan veg pasta along with your favourite classic breadstix",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/3/f79daf73-aad8-4353-923b-f7184f01cae3_118720de-64f2-41ae-9982-a31f3ce192d4.png",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 23900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "136562521",
+                                  "name": "McN Cheese Non Veg Pasta Meal for 1",
+                                  "category": "Pasta Meals & Deals",
+                                  "description": "Get a penne McN cheese chicken pasta along with your favourite classic breadstix",
+                                  "imageId": "1799f4120c4c9263cd14ed7245d7b4e8",
+                                  "inStock": 1,
+                                  "price": 28900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Pasta Pizza Deals",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "136562555",
+                                  "name": "Paneer Pasta Pizza Deal",
+                                  "category": "Pasta Meals & Deals",
+                                  "description": "Get a spiced paneer personal pan pizza along with a tandoori paneer pasta",
+                                  "imageId": "eaa84e9d425a118de381296f9f6df2ac",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 32900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "136562486",
+                                  "name": "Cosy Pasta Pizza Deal",
+                                  "category": "Pasta Meals & Deals",
+                                  "description": "Get a corn & cheese personal pan pizza along with a cosy comfort white sauce pasta",
+                                  "imageId": "7186586a7c5cc9e147c87b249e413123",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 32900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Appetizers",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562316",
+                              "name": "Chicken Wings - 4 Pcs",
+                              "category": "Appetizers",
+                              "description": "4 pcs of tender and juicy sweet chilly chicken wings",
+                              "imageId": "f5fyw9eyvkdjvybjhgho",
+                              "inStock": 1,
+                              "price": 20900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562326",
+                              "name": "Classic Bread Stix",
+                              "category": "Appetizers",
+                              "description": "Freshly baked buttery bread stick, sprinkled with herbs",
+                              "imageId": "n2ycmete7ehes9mrerlw",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562404",
+                              "name": "Zesty Veg Pocket",
+                              "category": "Appetizers",
+                              "description": "Freshly baked pocket stuffed with flavourful paneer, veggies & smoked texas garlic sauce",
+                              "imageId": "spmefmk8u9ftwbvdk6ay",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562370",
+                              "name": "Sprinkled Fries",
+                              "category": "Appetizers",
+                              "description": "Baked fries seasoned with our signature peruvian seasoning",
+                              "imageId": "frgza6cm1sjezw79pjtu",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 10900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562357",
+                              "name": "Masala Keema Garlic Bread",
+                              "category": "Appetizers",
+                              "description": "Hut's signature garlic bread topped with chicken keema masala, onion and green chilli & cheesy dressing. A must try!",
+                              "imageId": "a8288101773dde9baf1e1b2d3228dbf8",
+                              "inStock": 1,
+                              "price": 18900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562348",
+                              "name": "Garlic Bread - Cheese",
+                              "category": "Appetizers",
+                              "description": "Nothing beats our garlic bread! Period!",
+                              "imageId": "ziohlqoy38mfqzmfxy7e",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562337",
+                              "name": "Loaded Bread Stix",
+                              "category": "Appetizers",
+                              "description": "Freshly baked bread sticks, topped with cheesy dressing & herbs",
+                              "imageId": "o0zibtrbtyjwznptrsgy",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562390",
+                              "name": "Zesty Chicken Pocket",
+                              "category": "Appetizers",
+                              "description": "Freshly baked pocket stuffed with chicken, veggies & smoked Texas garlic sauce",
+                              "imageId": "wukqmbrmv0vngtlrczgw",
+                              "inStock": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562300",
+                              "name": "Cheesy Dip",
+                              "category": "Appetizers",
+                              "description": "Cheesy jalapeno dip (20 gm)",
+                              "imageId": "075d08a3e5d6212df3dd6d7ef221da9c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 3000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562379",
+                              "name": "Veg Mayonnaise Dip",
+                              "category": "Appetizers",
+                              "description": "Veg mayonnaise dip (20 gm)",
+                              "imageId": "bf9aiouo0vuqhyuj957k",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 3000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Pizzas",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562754",
+                              "name": "Triple Chicken Feast",
+                              "category": "Pizzas",
+                              "description": "Schezwan chicken meatballs, herbed chicken, chicken sausage, green capsicum, onion & red paprika",
+                              "imageId": "eecfccd3c9402a2de57618f023b3b367",
+                              "inStock": 1,
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "40214960",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "Personal",
+                                        "default": 1,
+                                        "id": "128745407",
+                                        "inStock": 1,
+                                        "isEnabled": 1,
+                                        "dependantVariation": {
+                                          "groupId": "40214961",
+                                          "variationId": "128745408"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "groupId": "40214961",
+                                    "name": "Base",
+                                    "variations": [
+                                      {
+                                        "name": "Pan",
+                                        "price": 409,
+                                        "default": 1,
+                                        "id": "128745408",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "40214960",
+                                        "variationId": "128745407"
+                                      },
+                                      {
+                                        "groupId": "40214961",
+                                        "variationId": "128745408"
+                                      }
+                                    ],
+                                    "price": 40900
+                                  }
+                                ]
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "defaultPrice": 40900,
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562759",
+                              "name": "Veggie Supreme",
+                              "category": "Pizzas",
+                              "description": "A supreme combination of black olives, green capsicum, mushroom, onion, spicy red paprika & juicy sweet corn with flavourful pan sauce and 100% mozzarella cheese",
+                              "imageId": "d55bb4fbb77dd3a9542aa1726a108595",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "40214964",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "Personal",
+                                        "default": 1,
+                                        "id": "128745411",
+                                        "inStock": 1,
+                                        "isEnabled": 1,
+                                        "dependantVariation": {
+                                          "groupId": "40214965",
+                                          "variationId": "128745412"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "groupId": "40214965",
+                                    "name": "Base",
+                                    "variations": [
+                                      {
+                                        "name": "Pan",
+                                        "price": 379,
+                                        "default": 1,
+                                        "id": "128745412",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "40214964",
+                                        "variationId": "128745411"
+                                      },
+                                      {
+                                        "groupId": "40214965",
+                                        "variationId": "128745412"
+                                      }
+                                    ],
+                                    "price": 37900
+                                  }
+                                ]
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "defaultPrice": 37900,
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562720",
+                              "name": "Chicken Sausage",
+                              "category": "Pizzas",
+                              "description": "Cheesy chicken sausages & onion",
+                              "imageId": "20c60d2820b1c7c41720216cb9b24156",
+                              "inStock": 1,
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "40214922",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "Personal",
+                                        "default": 1,
+                                        "id": "128745369",
+                                        "inStock": 1,
+                                        "isEnabled": 1,
+                                        "dependantVariation": {
+                                          "groupId": "40214923",
+                                          "variationId": "128745370"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "groupId": "40214923",
+                                    "name": "Base",
+                                    "variations": [
+                                      {
+                                        "name": "Pan",
+                                        "price": 259,
+                                        "default": 1,
+                                        "id": "128745370",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "40214922",
+                                        "variationId": "128745369"
+                                      },
+                                      {
+                                        "groupId": "40214923",
+                                        "variationId": "128745370"
+                                      }
+                                    ],
+                                    "price": 25900
+                                  }
+                                ]
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "defaultPrice": 25900,
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562729",
+                              "name": "Corn & Cheese",
+                              "category": "Pizzas",
+                              "description": "Cheese & sweet corn.",
+                              "imageId": "9b867d56f10ca8761ab6362cd4a5d423",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "40214932",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "Personal",
+                                        "default": 1,
+                                        "id": "128745379",
+                                        "inStock": 1,
+                                        "isEnabled": 1,
+                                        "dependantVariation": {
+                                          "groupId": "40214934",
+                                          "variationId": "128745381"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "groupId": "40214934",
+                                    "name": "Base",
+                                    "variations": [
+                                      {
+                                        "name": "Pan",
+                                        "price": 219,
+                                        "default": 1,
+                                        "id": "128745381",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "40214932",
+                                        "variationId": "128745379"
+                                      },
+                                      {
+                                        "groupId": "40214934",
+                                        "variationId": "128745381"
+                                      }
+                                    ],
+                                    "price": 21900
+                                  }
+                                ]
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "defaultPrice": 21900,
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562738",
+                              "name": "Margherita",
+                              "category": "Pizzas",
+                              "description": "Nothing but cheese!",
+                              "imageId": "sgkrqtyqi7lasyotinir",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "40214944",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "Personal",
+                                        "default": 1,
+                                        "id": "128745391",
+                                        "inStock": 1,
+                                        "isEnabled": 1,
+                                        "dependantVariation": {
+                                          "groupId": "40214947",
+                                          "variationId": "128745394"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "groupId": "40214947",
+                                    "name": "Base",
+                                    "variations": [
+                                      {
+                                        "name": "Pan",
+                                        "price": 169,
+                                        "default": 1,
+                                        "id": "128745394",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "40214944",
+                                        "variationId": "128745391"
+                                      },
+                                      {
+                                        "groupId": "40214947",
+                                        "variationId": "128745394"
+                                      }
+                                    ],
+                                    "price": 16900
+                                  }
+                                ]
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "defaultPrice": 16900,
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562750",
+                              "name": "Spiced Paneer",
+                              "category": "Pizzas",
+                              "description": "Spicy paneer, onion, tomatoes & cheese",
+                              "imageId": "66cba22dabfc5f899fd12cfb3d921315",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "40214958",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "Personal",
+                                        "default": 1,
+                                        "id": "128745405",
+                                        "inStock": 1,
+                                        "isEnabled": 1,
+                                        "dependantVariation": {
+                                          "groupId": "40214959",
+                                          "variationId": "128745406"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "groupId": "40214959",
+                                    "name": "Base",
+                                    "variations": [
+                                      {
+                                        "name": "Pan",
+                                        "price": 259,
+                                        "default": 1,
+                                        "id": "128745406",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "40214958",
+                                        "variationId": "128745405"
+                                      },
+                                      {
+                                        "groupId": "40214959",
+                                        "variationId": "128745406"
+                                      }
+                                    ],
+                                    "price": 25900
+                                  }
+                                ]
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "defaultPrice": 25900,
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562711",
+                              "name": "Chicken Pepperoni",
+                              "category": "Pizzas",
+                              "description": "Yummy chicken pepperoni & 100% mozzarella cheese with signature pan sauce. Its a classic!",
+                              "imageId": "cd37b8f7a7fdb33d3fec3148a79b2dc4",
+                              "inStock": 1,
+                              "variants": {},
+                              "variantsV2": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "40214912",
+                                    "name": "Size",
+                                    "variations": [
+                                      {
+                                        "name": "Personal",
+                                        "default": 1,
+                                        "id": "128745359",
+                                        "inStock": 1,
+                                        "isEnabled": 1,
+                                        "dependantVariation": {
+                                          "groupId": "40214913",
+                                          "variationId": "128745360"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "groupId": "40214913",
+                                    "name": "Base",
+                                    "variations": [
+                                      {
+                                        "name": "Pan",
+                                        "price": 379,
+                                        "default": 1,
+                                        "id": "128745360",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "pricingModels": [
+                                  {
+                                    "variations": [
+                                      {
+                                        "groupId": "40214912",
+                                        "variationId": "128745359"
+                                      },
+                                      {
+                                        "groupId": "40214913",
+                                        "variationId": "128745360"
+                                      }
+                                    ],
+                                    "price": 37900
+                                  }
+                                ]
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "defaultPrice": 37900,
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Beverages",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562440",
+                              "name": "Pepsi",
+                              "category": "Beverages",
+                              "description": "Veg. Carbonated Water. Contains Caffeine. Pepsi is registered trademark of Pepsico, inc.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/14/f96b5840-dfed-428c-9d02-4c614b391714_ec6b9bc0-f1b6-4fd1-b68e-b26d56e9b92a.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5700,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136945752",
+                              "name": "Pepsi Zero Sugar",
+                              "category": "Beverages",
+                              "description": "Serves 1 | Veg. Carbonated Water. Contains Caffeine. Contain non-caloric sweeteners. This carbonated water contains an admixture of sucralose and acesulfame potassium. Not recommended for children, pregnant or lactating women. Pepsi is registered trademark of Pepsico, inc.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/14/40ec52a2-f783-4329-a57a-04d832219a2b_f694c2fb-b981-41c6-9504-d9989f900f93.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5700,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562424",
+                              "name": "7-Up",
+                              "category": "Beverages",
+                              "description": "Contains Caffeine",
+                              "imageId": "e1a681b1e5f251ddbb9d2984cb3137b9",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5700,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562429",
+                              "name": "Mirinda",
+                              "category": "Beverages",
+                              "description": "Contains Caffeine",
+                              "imageId": "0a2f59c4450afb453a3faa60cf2943c2",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5700,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Desserts",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136025151",
+                              "name": "Brow-wow-nie",
+                              "category": "Desserts",
+                              "description": "A divine choco brownie for your all time chocolate cravings",
+                              "imageId": "7d502a2a21bb10e8a8bc96c9e1f85145",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 10900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136562452",
+                              "name": "Choco Volcano",
+                              "category": "Desserts",
+                              "description": "Hot bubbling gooey chocolate straight from heaven!",
+                              "imageId": "36f32afa9e359b2cd308cac66b865cac",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "40% OFF",
+                                  "subTitle": "USE SPECIALS",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": ["License No. 11223302001486"]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Pastas By Pizza Hut",
+                      "area": "Madiwala",
+                      "completeAddress": "18 (old no.1), 1st A main road, Maruti Nagar Bangalore Madiwala"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "a75deee8-92ae-449b-b500-036f3a265d08",
+  "sid": "exz7876a-fc19-4e72-9d50-b2f53ee3a79e",
+  "deviceId": "9dc01957-826b-39d2-2617-7b0ff54b8605",
+  "csrfToken": "rxVmBKsnkSxg-5yxwJxZyN1MHoaGhUTUSDDXPzCY"
+}

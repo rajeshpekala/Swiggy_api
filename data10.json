@@ -1,0 +1,226 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+            "text": "A2B - Adyar Ananda Bhavan",
+            "headerStyling": {
+              "textColor": "text_Highest_Emphasis",
+              "textVariant": "header_H3_Black"
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+            "tabs": [
+              {
+                "id": "Order Online",
+                "title": "Order Online"
+              },
+              {
+                "id": "Dineout",
+                "title": "Dineout",
+                "cta": "https://swiggy.com/menu/307/dineout"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "307",
+              "name": "A2B - Adyar Ananda Bhavan",
+              "city": "Bangalore",
+              "slugs": {
+                "restaurant": "a2b-veg-1st-stage-btm",
+                "city": "bangalore"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "gxe4mn4ubw70yx3flyar",
+              "locality": "BTM Layout",
+              "areaName": "Btm Layout",
+              "costForTwo": "30000",
+              "costForTwoMessage": "₹300 for two",
+              "cuisines": ["South Indian", "North Indian"],
+              "avgRating": 4.5,
+              "veg": true,
+              "feeDetails": {},
+              "parentId": "22",
+              "avgRatingString": "4.5",
+              "totalRatingsString": "10K+ ratings",
+              "sla": {
+                "restaurantId": "307",
+                "lastMileTravel": 855.6,
+                "serviceability": "NON_SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "lastMileTravelString": "855.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextOpenTimeMessage": "Opens next at 5:30 am, Thursday",
+                "nextOpenTime": "1970-01-01 05:30:00",
+                "visibility": true,
+                "restaurantClosedMeta": {}
+              },
+              "aggregatedDiscountInfo": {
+                "visible": true
+              },
+              "badges": {},
+              "slugString": "a2b-veg-1st-stage-btm",
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "BPCL. Petrol Bunk, #3, 100 Feet Road, I Stage, 16th Main I Phase, BTM Layout,  Bangalore"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "South Indian,North Indian"
+                }
+              ],
+              "totalRatings": 10000,
+              "aggregatedDiscountInfoV2": {
+                "visible": true
+              },
+              "type": "F",
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/307"
+              },
+              "generalPurposeInfoListV2": [
+                {
+                  "cta": {
+                    "info": {
+                      "recordings": {}
+                    },
+                    "linkCta": {}
+                  }
+                }
+              ],
+              "ratingSlab": "RATING_SLAB_5",
+              "availabilityServiceabilityMessage": "Does not deliver to your location",
+              "orderabilityCommunication": {
+                "title": {
+                  "text": "Wish you were"
+                },
+                "subTitle": {
+                  "text": "CLOSER!"
+                },
+                "message": {
+                  "text": "This location is outside the outlet's delivery area",
+                  "textColour": "negative"
+                },
+                "customIcon": {
+                  "bgGradientColorStart": "#F64C41",
+                  "bgGradientColorEnd": "#E53554"
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {},
+                "presentation": {}
+              },
+              "latLong": "12.91676494,77.60952531",
+              "backgroundImageOverlayInfo": {}
+            },
+            "analytics": {}
+          },
+          "relevance": {
+            "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+            "sectionId": "POP_UP_CROUTON_MENU"
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "isPureVeg": true,
+                      "badges": {},
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "topRatedFilter": {
+                        "attributes": {
+                          "displayText": "Ratings 4.0+"
+                        }
+                      },
+                      "kidsCategoryFilter": {
+                        "attributes": {
+                          "displayText": "Kids Favourites",
+                          "tooltip": {
+                            "enabled": true,
+                            "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                          }
+                        }
+                      },
+                      "vegFilter": {
+                        "attributes": {
+                          "displayText": "VEG"
+                        }
+                      },
+                      "nonvegFilter": {
+                        "attributes": {
+                          "displayText": "NONVEG"
+                        }
+                      }
+                    },
+                    "relevance": {
+                      "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                      "sectionId": "MENU_FILTER_TOGGLE"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": ["License No. 11219334001513"]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "A2B - Adyar Ananda Bhavan",
+                      "area": "Btm Layout",
+                      "completeAddress": "BPCL. Petrol Bunk, #3, 100 Feet Road, I Stage, 16th Main I Phase, BTM Layout,  Bangalore"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "a75deee8-92ae-449b-b500-036f3a265d08",
+  "sid": "exz7876a-fc19-4e72-9d50-b2f53ee3a79e",
+  "deviceId": "9dc01957-826b-39d2-2617-7b0ff54b8605",
+  "csrfToken": "rlMLpFWxjiWh-x1zbQpVFDZyDnSx4ClhoLBWhrFI"
+}

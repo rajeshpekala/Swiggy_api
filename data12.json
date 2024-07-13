@@ -1,0 +1,222 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+            "text": "Krispy Kreme",
+            "headerStyling": {
+              "textColor": "text_Highest_Emphasis",
+              "textVariant": "header_H3_Black"
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+            "tabs": [
+              {
+                "id": "Order Online",
+                "title": "Order Online"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "8736",
+              "name": "Krispy Kreme",
+              "city": "Bangalore",
+              "slugs": {
+                "restaurant": "krispy-kreme-intermediate-ring-road-koramangala",
+                "city": "bangalore"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/30/d50f07a6-7710-4ea5-8dd4-00f011801e1a_8736.jpg",
+              "locality": "100 Ft intermediate Ring Road",
+              "areaName": "Koramangala",
+              "costForTwo": "17000",
+              "costForTwoMessage": "₹170 for two",
+              "cuisines": ["Desserts", "Beverages"],
+              "avgRating": 4.4,
+              "veg": true,
+              "feeDetails": {},
+              "parentId": "570",
+              "avgRatingString": "4.4",
+              "totalRatingsString": "1K+ ratings",
+              "sla": {
+                "restaurantId": "8736",
+                "lastMileTravel": 854.9,
+                "serviceability": "NON_SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "lastMileTravelString": "854.9 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextOpenTimeMessage": "Opens next at 10 am, tomorrow",
+                "nextOpenTime": "2024-07-14 10:00:00",
+                "visibility": true,
+                "restaurantClosedMeta": {}
+              },
+              "aggregatedDiscountInfo": {
+                "visible": true
+              },
+              "badges": {},
+              "slugString": "krispy-kreme-intermediate-ring-road-koramangala",
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "Krispy Kreme Doughnuts, Ground Floor, Life Style, Oasis Center, No 30, 100 Ft intermediate Ring Road, Koramangala, Bangalore - 560095"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "Desserts,Beverages"
+                }
+              ],
+              "logo": "marketing-dashboard/carousel/k71sfnnepbfv1dq3ikrl",
+              "totalRatings": 1000,
+              "aggregatedDiscountInfoV2": {
+                "visible": true
+              },
+              "type": "F",
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/8736"
+              },
+              "generalPurposeInfoListV2": [
+                {
+                  "cta": {
+                    "info": {
+                      "recordings": {}
+                    },
+                    "linkCta": {}
+                  }
+                }
+              ],
+              "ratingSlab": "RATING_SLAB_5",
+              "availabilityServiceabilityMessage": "Does not deliver to your location",
+              "orderabilityCommunication": {
+                "title": {
+                  "text": "Wish you were"
+                },
+                "subTitle": {
+                  "text": "CLOSER!"
+                },
+                "message": {
+                  "text": "This location is outside the outlet's delivery area",
+                  "textColour": "negative"
+                },
+                "customIcon": {
+                  "bgGradientColorStart": "#F64C41",
+                  "bgGradientColorEnd": "#E53554"
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {},
+                "presentation": {}
+              },
+              "latLong": "12.9376115,77.628175",
+              "backgroundImageOverlayInfo": {}
+            },
+            "analytics": {}
+          },
+          "relevance": {
+            "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+            "sectionId": "POP_UP_CROUTON_MENU"
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "isPureVeg": true,
+                      "badges": {},
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "topRatedFilter": {
+                        "attributes": {
+                          "displayText": "Ratings 4.0+"
+                        }
+                      },
+                      "kidsCategoryFilter": {
+                        "attributes": {
+                          "displayText": "Kids Favourites",
+                          "tooltip": {
+                            "enabled": true,
+                            "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                          }
+                        }
+                      },
+                      "vegFilter": {
+                        "attributes": {
+                          "displayText": "VEG"
+                        }
+                      },
+                      "nonvegFilter": {
+                        "attributes": {
+                          "displayText": "NONVEG"
+                        }
+                      }
+                    },
+                    "relevance": {
+                      "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                      "sectionId": "MENU_FILTER_TOGGLE"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": ["License No. 11220333001954"]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Krispy Kreme",
+                      "area": "Koramangala",
+                      "completeAddress": "Krispy Kreme Doughnuts, Ground Floor, Life Style, Oasis Center, No 30, 100 Ft intermediate Ring Road, Koramangala, Bangalore - 560095"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "a75deee8-92ae-449b-b500-036f3a265d08",
+  "sid": "exz7876a-fc19-4e72-9d50-b2f53ee3a79e",
+  "deviceId": "9dc01957-826b-39d2-2617-7b0ff54b8605",
+  "csrfToken": "as9uJCZFmW56-Cm8hyBsCF1njYVyDbyHfMFnQ_lE"
+}

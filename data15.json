@@ -1,0 +1,2854 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+            "text": "Vital Bowls - Salads & more",
+            "headerStyling": {
+              "textColor": "text_Highest_Emphasis",
+              "textVariant": "header_H3_Black"
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+            "tabs": [
+              {
+                "id": "Order Online",
+                "title": "Order Online"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "799947",
+              "name": "Vital Bowls - Salads & more",
+              "city": "Bangalore",
+              "slugs": {
+                "restaurant": "vital-bowls-keb-layout-btm",
+                "city": "bangalore"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "6d30adc4403bb25931e9c37fb43a35ee",
+              "locality": "NGK Complex",
+              "areaName": "BTM 1st Stage",
+              "costForTwo": "50000",
+              "costForTwoMessage": "₹500 for two",
+              "cuisines": ["Healthy Food", "Salads"],
+              "avgRating": 4.1,
+              "feeDetails": {},
+              "parentId": "478149",
+              "avgRatingString": "4.1",
+              "totalRatingsString": "20+ ratings",
+              "sla": {
+                "restaurantId": "799947",
+                "lastMileTravel": 855.4,
+                "serviceability": "NON_SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "lastMileTravelString": "855.4 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseMessage": "Closes soon",
+                "nextCloseTime": "2024-07-13 23:59:00",
+                "visibility": true,
+                "opened": true,
+                "restaurantClosedMeta": {}
+              },
+              "aggregatedDiscountInfo": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "50% off | Use TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹125 off on orders above ₹399",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "50% off up to ₹100 | Use code TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹125 off on orders above ₹399 | Use code FLAT125",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "visible": true
+              },
+              "badges": {},
+              "slugString": "vital-bowls-keb-layout-btm",
+              "multiOutlet": true,
+              "isOpen": true,
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "Shop No.4, Frist Floor, NGK Complex, Tavarekere Main Rd, 1st Stage, BTM Layout, Bengaluru, Karnataka 560029 ( Above DMart Ready)"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "Healthy Food,Salads"
+                }
+              ],
+              "totalRatings": 20,
+              "aggregatedDiscountInfoV2": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "50% off | Use TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹125 off on orders above ₹399",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "50% off up to ₹100 | Use code TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹125 off on orders above ₹399 | Use code FLAT125",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "couponDetailsCta": "View coupon details"
+              },
+              "type": "F",
+              "nudgeBanners": [
+                {
+                  "minValue": 279,
+                  "maxValue": 399,
+                  "priority": 2,
+                  "couponCode": "FLAT125",
+                  "discountInfo": {
+                    "discountType": "Flat",
+                    "value": 125
+                  },
+                  "lockedMessage": "Add items worth ₹\u003Camount\u003E to save ₹125 | Code FLAT125",
+                  "unlockedMessage": "FLAT125 Coupon Unlocked! Use it to save ₹125",
+                  "logoCtx": {}
+                }
+              ],
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/799947"
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "availabilityServiceabilityMessage": "Does not deliver to your location",
+              "orderabilityCommunication": {
+                "title": {
+                  "text": "Wish you were"
+                },
+                "subTitle": {
+                  "text": "CLOSER!"
+                },
+                "message": {
+                  "text": "This location is outside the outlet's delivery area",
+                  "textColour": "negative"
+                },
+                "customIcon": {
+                  "bgGradientColorStart": "#F64C41",
+                  "bgGradientColorEnd": "#E53554"
+                }
+              },
+              "hasBestsellerItems": true,
+              "hasGuiltfreeItems": true,
+              "nearestOutletNudge": {
+                "nearestOutletInfo": {
+                  "siblingOutlet": {
+                    "id": "874295",
+                    "city": "0",
+                    "slugs": {},
+                    "areaName": "Andheri East",
+                    "costForTwo": "0",
+                    "feeDetails": {},
+                    "sla": {
+                      "deliveryTime": 41,
+                      "lastMileTravel": 0.8,
+                      "slaString": "41 MINS",
+                      "lastMileTravelString": "0.8 km",
+                      "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                      "restaurantClosedMeta": {}
+                    },
+                    "aggregatedDiscountInfo": {
+                      "visible": true
+                    },
+                    "badges": {},
+                    "aggregatedDiscountInfoV2": {
+                      "visible": true
+                    },
+                    "availabilityServiceabilityMessage": "Temporarily closed for delivery",
+                    "cartOrderabilityNudgeBanner": {
+                      "parameters": {},
+                      "presentation": {}
+                    }
+                  }
+                },
+                "nearestOutletComms": {
+                  "title": {
+                    "text": "Don't worry! Try our outlet that's delivering"
+                  },
+                  "subTitle": {
+                    "text": "Switch to the fastest alternate"
+                  }
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {},
+                "presentation": {}
+              },
+              "latLong": "12.920219,77.610520",
+              "backgroundImageOverlayInfo": {}
+            },
+            "analytics": {}
+          },
+          "relevance": {
+            "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+            "sectionId": "POP_UP_CROUTON_MENU"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "rows": 1,
+              "columns": 5,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 12,
+              "lineSpacing": 10,
+              "widgetPadding": {},
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 10,
+                  "right": 10,
+                  "bottom": 16
+                }
+              },
+              "scrollBar": {}
+            },
+            "id": "offerCollectionWidget_UX4",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                "offers": [
+                  {
+                    "info": {
+                      "header": "50% OFF UPTO ₹100",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["0d5d8bb9-a1c6-4ebd-92c4-43527b7d5b32"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE TRYNEW",
+                      "description": "ABOVE ₹159",
+                      "offerType": "offers",
+                      "restId": "799947",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹125 OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["5c3a0f9f-767c-4fd5-8e03-0303153add27"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE FLAT125",
+                      "description": "ABOVE ₹399",
+                      "offerType": "offers",
+                      "restId": "799947",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "10% OFF UPTO ₹200",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/12/2de23314-4b8c-4de8-9d90-d5747fbb3832_Hsbccc.png",
+                      "offerIds": ["b50dac91-e76e-46e8-a247-19a57214fb39"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "NO CODE REQUIRED",
+                      "description": "ABOVE ₹499",
+                      "offerType": "offers",
+                      "restId": "799947",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/12/2de23314-4b8c-4de8-9d90-d5747fbb3832_Hsbccc.png",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "20% OFF UPTO ₹125",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/6/30/5652719b-c6bc-4f4b-a5d7-39917a6ffdf6_BOBMenuVisibilityLogo.png",
+                      "offerIds": ["69b0ec3d-0b23-44b3-9bb5-1c9a923a1b2a"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE BOBDC",
+                      "description": "ABOVE ₹299",
+                      "offerType": "offers",
+                      "restId": "799947",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/6/30/5652719b-c6bc-4f4b-a5d7-39917a6ffdf6_BOBMenuVisibilityLogo.png",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "10% OFF UPTO ₹150",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/3/a6404599-9a7c-41f2-be8c-185da182b1f2_HSBC.png",
+                      "offerIds": ["b2802d50-6c45-43b1-adb4-eb5e4b8b74d7"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE HSBCFEST",
+                      "description": "ABOVE ₹499",
+                      "offerType": "offers",
+                      "restId": "799947",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/3/a6404599-9a7c-41f2-be8c-185da182b1f2_HSBC.png",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  }
+                ],
+                "habitMilestoneInfo": {
+                  "callout": {}
+                },
+                "loyaltyDiscoverPresentationInfo": {
+                  "logoCtx": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "badges": {},
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "topRatedFilter": {
+                        "attributes": {
+                          "displayText": "Ratings 4.0+"
+                        }
+                      },
+                      "kidsCategoryFilter": {
+                        "attributes": {
+                          "displayText": "Kids Favourites",
+                          "tooltip": {
+                            "enabled": true,
+                            "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                          }
+                        }
+                      },
+                      "vegFilter": {
+                        "attributes": {
+                          "displayText": "VEG"
+                        }
+                      },
+                      "nonvegFilter": {
+                        "attributes": {
+                          "displayText": "NONVEG"
+                        }
+                      }
+                    },
+                    "relevance": {
+                      "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                      "sectionId": "MENU_FILTER_TOGGLE"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "132084232",
+                              "name": "Smoky Chicken Salad",
+                              "category": "Salad Bowls",
+                              "description": "Served with Thousand Island Dressing - Serves 1\nSmoky chicken seasoned with flavouful spices, this salad bowl is not your usual one. Calories (Kcals): 387, Carbs (Gms): 27, Proteins (Gms): 14, Fats (Gms): 26",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/22/43374e3b-abeb-4558-9f03-4a98843a35cd_c20bef23-3da0-41b5-a080-880e994cc863.jpeg",
+                              "inStock": 1,
+                              "price": 27900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.6",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "132084220",
+                              "name": "Lebanese Chicken Salad",
+                              "category": "Salad Bowls",
+                              "description": "Served with Lebeneh Dressing - Serves 1\nFresh Veggies topped with Tender, cooked chicken seasoned with flavouful spices is a classic white chicken salad for your everyday meals. Calories (Kcals)- 331, Carbs (Gms)- 20, Proteins (Gms)-16, Fats (Gms)- 22",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/22/4b73ffcf-281e-47de-90a6-ba66e71edb2e_aa3a8afb-2cdd-4bc2-81f5-f72ada34598a.jpeg",
+                              "inStock": 1,
+                              "price": 27900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129801165",
+                              "name": "Egg Greek salad",
+                              "category": "Salad Bowls",
+                              "description": "Served with Lebeneh Dressing, Serves 1\nThis Egg Greek salad is a delicious combination of lettuce, green capsicum, tomatoes, corn, olives, and jalapenos, tossed in herbs and chili. It is topped with Feta Cheese and 2 eggs, making it a filling salad for your meal.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/22/cd1034db-bc3f-464c-ab6d-b64479fc30d7_c80569cc-40ce-4a49-8ca1-6368a653fe8c.jpeg",
+                              "inStock": 1,
+                              "price": 25900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.7",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129801166",
+                              "name": "Garden Fresh Veg Salad",
+                              "category": "Salad Bowls",
+                              "description": "Served with Thousand Island Dressing, Serves 1\nExperience the freshness of veggies with lettuce, green capsicum, tomatoes, corn, olives, and jalapenos tossed in herbs and chili and topped with falafel shots.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/22/db01af3c-5192-4a52-83f3-6faf787d1031_308e6597-7785-4bac-90a7-c8cf454abc0c.jpeg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 21900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "8 ratings",
+                                  "ratingCountV2": "8"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129801164",
+                              "name": "Veg Greek Salad",
+                              "category": "Salad Bowls",
+                              "description": "Served with Lebeneh Dressing, Serves 1\nA classic veggie salad made with lettuce, green capsicum, tomatoes, corn, olives, and jalapenos tossed in herbs and chili. Topped with Feta Cheese, making this the perfect salad for your meal. Calories (Kcals) 222, Carbs (Gms) 16, Proteins (Gms) 8, Fats (Gms) 15",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/22/106d00d4-e9fa-40a8-b741-23348c1de58d_d5dc81cd-6c92-4e6d-a1ba-dfd1232d50a5.jpeg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 21900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.2",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129801171",
+                              "name": "Butter Chicken Rice Bowl with Seekh Kebab",
+                              "category": "High protein bowls",
+                              "description": "Butter makes everything better, but chicken makes everything best! Creamy butter chicken served with rice, salad and delicious chicken seekh. Calories (Kcals): 1085, Carbs (Gms): 136, Proteins (Gms): 52, Fats (Gms): 38",
+                              "imageId": "73cd65e717d683090445f3b46c3f7b3e",
+                              "inStock": 1,
+                              "price": 39900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "151514989",
+                                  "groupName": "Add a Starter",
+                                  "choices": [
+                                    {
+                                      "id": "117519048",
+                                      "name": "Aloo Pattice (2 pcs)",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519068",
+                                      "name": "Falafel Nuggets with Mayo Dip",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519044",
+                                      "name": "Potato Chilli Shots with Mayo Dip",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519062",
+                                      "name": "Murgh Haleem Kebab (2 pcs)",
+                                      "price": 8900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519045",
+                                      "name": "Cheesy Chicken Meatballs (3 Pcs)",
+                                      "price": 6900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519061",
+                                      "name": "Hara Bhara Kebab (2 pcs)",
+                                      "price": 5900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 6,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514990",
+                                  "groupName": "Add a Side",
+                                  "choices": [
+                                    {
+                                      "id": "118459487",
+                                      "name": "Omelette",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "119177190",
+                                      "name": "Mixed Pickled Vegetables (10g)",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519047",
+                                      "name": "Curd",
+                                      "price": 2900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519041",
+                                      "name": "Mint Raita",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519043",
+                                      "name": "Mirchi Ka Salan",
+                                      "price": 4500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519058",
+                                      "name": "Mughlai Gravy",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519056",
+                                      "name": "Honey Mustard Sauce (100g) (Save Rs 20)",
+                                      "price": 6900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519054",
+                                      "name": "Chimmichuri Sauce (100g)  (Save Rs 20)",
+                                      "price": 6900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 8,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514991",
+                                  "groupName": "Add a Beverage",
+                                  "choices": [
+                                    {
+                                      "id": "117519052",
+                                      "name": "Tender Coconut Water",
+                                      "price": 9524,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519064",
+                                      "name": "Lemon Ice Tea",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519065",
+                                      "name": "Mint Chaas",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519060",
+                                      "name": "SWIG Jeera Masala Soda",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519042",
+                                      "name": "Coca-Cola Bottle (475 ml)",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519066",
+                                      "name": "Thums Up Can (330 ml)",
+                                      "price": 6650,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 6,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514992",
+                                  "groupName": "Add a Dessert",
+                                  "choices": [
+                                    {
+                                      "id": "117519053",
+                                      "name": "Alphonso Mango Ice Cream",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519055",
+                                      "name": "Moong Dal Halwa (100 gm)",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519057",
+                                      "name": "Gulab Jamun - Pack of 1",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519059",
+                                      "name": "Choco Lava Cake",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519067",
+                                      "name": "Belgian Chocolate Ice Cream",
+                                      "price": 9900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519046",
+                                      "name": "Gajar Halwa (100 gm)",
+                                      "price": 9900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519063",
+                                      "name": "Chocolate Mousse",
+                                      "price": 7900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 7,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129801169",
+                              "name": "Palak Chicken Rice Bowl with Chicken Kebab",
+                              "category": "High protein bowls",
+                              "description": "Chicken power like no other. Tender chicken in creamy palak gravy served with rice, salad and melt-in-mouth Chicken Haleem Kebab. Calories (Kcals) 904, Carbs (Gms) 87, Proteins (Gms) 43, Fats (Gms) 44",
+                              "imageId": "7e3bcac27d658c52cb1f8f3876411f39",
+                              "inStock": 1,
+                              "price": 37900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "151514993",
+                                  "groupName": "Add a Starter",
+                                  "choices": [
+                                    {
+                                      "id": "117519048",
+                                      "name": "Aloo Pattice (2 pcs)",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519068",
+                                      "name": "Falafel Nuggets with Mayo Dip",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519044",
+                                      "name": "Potato Chilli Shots with Mayo Dip",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519062",
+                                      "name": "Murgh Haleem Kebab (2 pcs)",
+                                      "price": 8900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519045",
+                                      "name": "Cheesy Chicken Meatballs (3 Pcs)",
+                                      "price": 6900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519061",
+                                      "name": "Hara Bhara Kebab (2 pcs)",
+                                      "price": 5900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 6,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514994",
+                                  "groupName": "Add a Side",
+                                  "choices": [
+                                    {
+                                      "id": "118459487",
+                                      "name": "Omelette",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "119177190",
+                                      "name": "Mixed Pickled Vegetables (10g)",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519047",
+                                      "name": "Curd",
+                                      "price": 2900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519041",
+                                      "name": "Mint Raita",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519043",
+                                      "name": "Mirchi Ka Salan",
+                                      "price": 4500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519058",
+                                      "name": "Mughlai Gravy",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519056",
+                                      "name": "Honey Mustard Sauce (100g) (Save Rs 20)",
+                                      "price": 6900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519054",
+                                      "name": "Chimmichuri Sauce (100g)  (Save Rs 20)",
+                                      "price": 6900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 8,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514995",
+                                  "groupName": "Add a Beverage",
+                                  "choices": [
+                                    {
+                                      "id": "117519052",
+                                      "name": "Tender Coconut Water",
+                                      "price": 9524,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519064",
+                                      "name": "Lemon Ice Tea",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519065",
+                                      "name": "Mint Chaas",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519060",
+                                      "name": "SWIG Jeera Masala Soda",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519042",
+                                      "name": "Coca-Cola Bottle (475 ml)",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519066",
+                                      "name": "Thums Up Can (330 ml)",
+                                      "price": 6650,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 6,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514996",
+                                  "groupName": "Add a Dessert",
+                                  "choices": [
+                                    {
+                                      "id": "117519053",
+                                      "name": "Alphonso Mango Ice Cream",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519055",
+                                      "name": "Moong Dal Halwa (100 gm)",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519057",
+                                      "name": "Gulab Jamun - Pack of 1",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519059",
+                                      "name": "Choco Lava Cake",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519067",
+                                      "name": "Belgian Chocolate Ice Cream",
+                                      "price": 9900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519046",
+                                      "name": "Gajar Halwa (100 gm)",
+                                      "price": 9900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519063",
+                                      "name": "Chocolate Mousse",
+                                      "price": 7900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 7,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129801170",
+                              "name": "Dal Makhni Rice Bowl with Dahi Kebab",
+                              "category": "High protein bowls",
+                              "description": "Best of both the worlds in a bowl. Creamy dal makhani served with rice, salad and soft dahi kebabs. Calories (Kcals) 765, Carbs (Gms) 101, Proteins (Gms) 24, Fats (Gms) 31",
+                              "imageId": "36387f20e4c9063cb62919facf888e5f",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 31900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "151514985",
+                                  "groupName": "Add a Starter",
+                                  "choices": [
+                                    {
+                                      "id": "117519048",
+                                      "name": "Aloo Pattice (2 pcs)",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519068",
+                                      "name": "Falafel Nuggets with Mayo Dip",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519044",
+                                      "name": "Potato Chilli Shots with Mayo Dip",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519062",
+                                      "name": "Murgh Haleem Kebab (2 pcs)",
+                                      "price": 8900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519045",
+                                      "name": "Cheesy Chicken Meatballs (3 Pcs)",
+                                      "price": 6900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519061",
+                                      "name": "Hara Bhara Kebab (2 pcs)",
+                                      "price": 5900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 6,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514986",
+                                  "groupName": "Add a Side",
+                                  "choices": [
+                                    {
+                                      "id": "118459487",
+                                      "name": "Omelette",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "119177190",
+                                      "name": "Mixed Pickled Vegetables (10g)",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519047",
+                                      "name": "Curd",
+                                      "price": 2900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519041",
+                                      "name": "Mint Raita",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519043",
+                                      "name": "Mirchi Ka Salan",
+                                      "price": 4500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519058",
+                                      "name": "Mughlai Gravy",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519056",
+                                      "name": "Honey Mustard Sauce (100g) (Save Rs 20)",
+                                      "price": 6900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519054",
+                                      "name": "Chimmichuri Sauce (100g)  (Save Rs 20)",
+                                      "price": 6900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 8,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514987",
+                                  "groupName": "Add a Beverage",
+                                  "choices": [
+                                    {
+                                      "id": "117519052",
+                                      "name": "Tender Coconut Water",
+                                      "price": 9524,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519064",
+                                      "name": "Lemon Ice Tea",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519065",
+                                      "name": "Mint Chaas",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519060",
+                                      "name": "SWIG Jeera Masala Soda",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519042",
+                                      "name": "Coca-Cola Bottle (475 ml)",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519066",
+                                      "name": "Thums Up Can (330 ml)",
+                                      "price": 6650,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 6,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514988",
+                                  "groupName": "Add a Dessert",
+                                  "choices": [
+                                    {
+                                      "id": "117519053",
+                                      "name": "Alphonso Mango Ice Cream",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519055",
+                                      "name": "Moong Dal Halwa (100 gm)",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519057",
+                                      "name": "Gulab Jamun - Pack of 1",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519059",
+                                      "name": "Choco Lava Cake",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519067",
+                                      "name": "Belgian Chocolate Ice Cream",
+                                      "price": 9900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519046",
+                                      "name": "Gajar Halwa (100 gm)",
+                                      "price": 9900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519063",
+                                      "name": "Chocolate Mousse",
+                                      "price": 7900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 7,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.5",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129801173",
+                              "name": "Skimmed Mint Buttermilk",
+                              "category": "Beverages",
+                              "description": "Mildly spiced Indian buttermilk with the freshness of mint.",
+                              "imageId": "dafcdc5c1354f991385ea55974a5e00b",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129801172",
+                              "name": "Masala Lemonade (200 mL)",
+                              "category": "Beverages",
+                              "description": "A refreshing classic drink with combined goodness of fresh lime, himalayan pink salt & infused spices.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/10/516153ac-3005-4e1f-a78d-a0a15d922c3c_8eab094b-6c26-4f44-ba05-a3b4cfa39522.jpeg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 4600,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "139858539",
+                              "name": "Tender Coconut Water (200 mL)",
+                              "category": "Beverages",
+                              "description": "Every athlete's go-to natural energy drink, Coconut water (in collaboration with Raw Pressery) is a complete win-win for your everyday rehydration needs.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/6/1c0c0e45-8873-4e16-ac3e-087ac56a1dd3_78d5d772-9976-48d7-9cc6-36549b75d5d0.jpeg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9524,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "139896015",
+                              "name": "Jeera Masala Soda (350 mL)",
+                              "category": "Beverages",
+                              "description": "Aerated drink with the added zing of jeera and masala, a perfect accompaniment to your meal.",
+                              "imageId": "25b016a4f3021dad1923cf8d39f2378a",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5700,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "139896014",
+                              "name": "Cold Coffee (200 mL)",
+                              "category": "Beverages",
+                              "description": "Guaranteed to satisfy your craving for caffeine and coolness, this refreshing, ready-to-drink, cold coffee is an all time favourite.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/24/37f0464e-af74-4827-833e-c7a7b15fa2ec_be19ceb8-7faa-4e53-ad7c-69f6c45d893a.jpeg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133731439",
+                              "name": "Lemon Ice Tea (250 mL)",
+                              "category": "Beverages",
+                              "description": "Sip on this refreshing drink for a citrusy lemon punch, infused with brewed tea. This iced tea is a perfect way to re-energize you anytime of the day!",
+                              "imageId": "4fdd0d1329d39d35824c40df2e86004a",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Salad Bowls",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "132084232",
+                              "name": "Smoky Chicken Salad",
+                              "category": "Salad Bowls",
+                              "description": "Served with Thousand Island Dressing - Serves 1\nSmoky chicken seasoned with flavouful spices, this salad bowl is not your usual one. Calories (Kcals): 387, Carbs (Gms): 27, Proteins (Gms): 14, Fats (Gms): 26",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/22/43374e3b-abeb-4558-9f03-4a98843a35cd_c20bef23-3da0-41b5-a080-880e994cc863.jpeg",
+                              "inStock": 1,
+                              "price": 27900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.6",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "132084220",
+                              "name": "Lebanese Chicken Salad",
+                              "category": "Salad Bowls",
+                              "description": "Served with Lebeneh Dressing - Serves 1\nFresh Veggies topped with Tender, cooked chicken seasoned with flavouful spices is a classic white chicken salad for your everyday meals. Calories (Kcals)- 331, Carbs (Gms)- 20, Proteins (Gms)-16, Fats (Gms)- 22",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/22/4b73ffcf-281e-47de-90a6-ba66e71edb2e_aa3a8afb-2cdd-4bc2-81f5-f72ada34598a.jpeg",
+                              "inStock": 1,
+                              "price": 27900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129801165",
+                              "name": "Egg Greek salad",
+                              "category": "Salad Bowls",
+                              "description": "Served with Lebeneh Dressing, Serves 1\nThis Egg Greek salad is a delicious combination of lettuce, green capsicum, tomatoes, corn, olives, and jalapenos, tossed in herbs and chili. It is topped with Feta Cheese and 2 eggs, making it a filling salad for your meal.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/22/cd1034db-bc3f-464c-ab6d-b64479fc30d7_c80569cc-40ce-4a49-8ca1-6368a653fe8c.jpeg",
+                              "inStock": 1,
+                              "price": 25900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.7",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129801166",
+                              "name": "Garden Fresh Veg Salad",
+                              "category": "Salad Bowls",
+                              "description": "Served with Thousand Island Dressing, Serves 1\nExperience the freshness of veggies with lettuce, green capsicum, tomatoes, corn, olives, and jalapenos tossed in herbs and chili and topped with falafel shots.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/22/db01af3c-5192-4a52-83f3-6faf787d1031_308e6597-7785-4bac-90a7-c8cf454abc0c.jpeg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 21900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "8 ratings",
+                                  "ratingCountV2": "8"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129801164",
+                              "name": "Veg Greek Salad",
+                              "category": "Salad Bowls",
+                              "description": "Served with Lebeneh Dressing, Serves 1\nA classic veggie salad made with lettuce, green capsicum, tomatoes, corn, olives, and jalapenos tossed in herbs and chili. Topped with Feta Cheese, making this the perfect salad for your meal. Calories (Kcals) 222, Carbs (Gms) 16, Proteins (Gms) 8, Fats (Gms) 15",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/22/106d00d4-e9fa-40a8-b741-23348c1de58d_d5dc81cd-6c92-4e6d-a1ba-dfd1232d50a5.jpeg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 21900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.2",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "High protein bowls",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129801171",
+                              "name": "Butter Chicken Rice Bowl with Seekh Kebab",
+                              "category": "High protein bowls",
+                              "description": "Butter makes everything better, but chicken makes everything best! Creamy butter chicken served with rice, salad and delicious chicken seekh. Calories (Kcals): 1085, Carbs (Gms): 136, Proteins (Gms): 52, Fats (Gms): 38",
+                              "imageId": "73cd65e717d683090445f3b46c3f7b3e",
+                              "inStock": 1,
+                              "price": 39900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "151514989",
+                                  "groupName": "Add a Starter",
+                                  "choices": [
+                                    {
+                                      "id": "117519048",
+                                      "name": "Aloo Pattice (2 pcs)",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519068",
+                                      "name": "Falafel Nuggets with Mayo Dip",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519044",
+                                      "name": "Potato Chilli Shots with Mayo Dip",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519062",
+                                      "name": "Murgh Haleem Kebab (2 pcs)",
+                                      "price": 8900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519045",
+                                      "name": "Cheesy Chicken Meatballs (3 Pcs)",
+                                      "price": 6900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519061",
+                                      "name": "Hara Bhara Kebab (2 pcs)",
+                                      "price": 5900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 6,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514990",
+                                  "groupName": "Add a Side",
+                                  "choices": [
+                                    {
+                                      "id": "118459487",
+                                      "name": "Omelette",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "119177190",
+                                      "name": "Mixed Pickled Vegetables (10g)",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519047",
+                                      "name": "Curd",
+                                      "price": 2900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519041",
+                                      "name": "Mint Raita",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519043",
+                                      "name": "Mirchi Ka Salan",
+                                      "price": 4500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519058",
+                                      "name": "Mughlai Gravy",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519056",
+                                      "name": "Honey Mustard Sauce (100g) (Save Rs 20)",
+                                      "price": 6900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519054",
+                                      "name": "Chimmichuri Sauce (100g)  (Save Rs 20)",
+                                      "price": 6900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 8,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514991",
+                                  "groupName": "Add a Beverage",
+                                  "choices": [
+                                    {
+                                      "id": "117519052",
+                                      "name": "Tender Coconut Water",
+                                      "price": 9524,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519064",
+                                      "name": "Lemon Ice Tea",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519065",
+                                      "name": "Mint Chaas",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519060",
+                                      "name": "SWIG Jeera Masala Soda",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519042",
+                                      "name": "Coca-Cola Bottle (475 ml)",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519066",
+                                      "name": "Thums Up Can (330 ml)",
+                                      "price": 6650,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 6,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514992",
+                                  "groupName": "Add a Dessert",
+                                  "choices": [
+                                    {
+                                      "id": "117519053",
+                                      "name": "Alphonso Mango Ice Cream",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519055",
+                                      "name": "Moong Dal Halwa (100 gm)",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519057",
+                                      "name": "Gulab Jamun - Pack of 1",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519059",
+                                      "name": "Choco Lava Cake",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519067",
+                                      "name": "Belgian Chocolate Ice Cream",
+                                      "price": 9900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519046",
+                                      "name": "Gajar Halwa (100 gm)",
+                                      "price": 9900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519063",
+                                      "name": "Chocolate Mousse",
+                                      "price": 7900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 7,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129801169",
+                              "name": "Palak Chicken Rice Bowl with Chicken Kebab",
+                              "category": "High protein bowls",
+                              "description": "Chicken power like no other. Tender chicken in creamy palak gravy served with rice, salad and melt-in-mouth Chicken Haleem Kebab. Calories (Kcals) 904, Carbs (Gms) 87, Proteins (Gms) 43, Fats (Gms) 44",
+                              "imageId": "7e3bcac27d658c52cb1f8f3876411f39",
+                              "inStock": 1,
+                              "price": 37900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "151514993",
+                                  "groupName": "Add a Starter",
+                                  "choices": [
+                                    {
+                                      "id": "117519048",
+                                      "name": "Aloo Pattice (2 pcs)",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519068",
+                                      "name": "Falafel Nuggets with Mayo Dip",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519044",
+                                      "name": "Potato Chilli Shots with Mayo Dip",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519062",
+                                      "name": "Murgh Haleem Kebab (2 pcs)",
+                                      "price": 8900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519045",
+                                      "name": "Cheesy Chicken Meatballs (3 Pcs)",
+                                      "price": 6900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519061",
+                                      "name": "Hara Bhara Kebab (2 pcs)",
+                                      "price": 5900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 6,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514994",
+                                  "groupName": "Add a Side",
+                                  "choices": [
+                                    {
+                                      "id": "118459487",
+                                      "name": "Omelette",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "119177190",
+                                      "name": "Mixed Pickled Vegetables (10g)",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519047",
+                                      "name": "Curd",
+                                      "price": 2900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519041",
+                                      "name": "Mint Raita",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519043",
+                                      "name": "Mirchi Ka Salan",
+                                      "price": 4500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519058",
+                                      "name": "Mughlai Gravy",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519056",
+                                      "name": "Honey Mustard Sauce (100g) (Save Rs 20)",
+                                      "price": 6900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519054",
+                                      "name": "Chimmichuri Sauce (100g)  (Save Rs 20)",
+                                      "price": 6900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 8,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514995",
+                                  "groupName": "Add a Beverage",
+                                  "choices": [
+                                    {
+                                      "id": "117519052",
+                                      "name": "Tender Coconut Water",
+                                      "price": 9524,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519064",
+                                      "name": "Lemon Ice Tea",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519065",
+                                      "name": "Mint Chaas",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519060",
+                                      "name": "SWIG Jeera Masala Soda",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519042",
+                                      "name": "Coca-Cola Bottle (475 ml)",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519066",
+                                      "name": "Thums Up Can (330 ml)",
+                                      "price": 6650,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 6,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514996",
+                                  "groupName": "Add a Dessert",
+                                  "choices": [
+                                    {
+                                      "id": "117519053",
+                                      "name": "Alphonso Mango Ice Cream",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519055",
+                                      "name": "Moong Dal Halwa (100 gm)",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519057",
+                                      "name": "Gulab Jamun - Pack of 1",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519059",
+                                      "name": "Choco Lava Cake",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519067",
+                                      "name": "Belgian Chocolate Ice Cream",
+                                      "price": 9900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519046",
+                                      "name": "Gajar Halwa (100 gm)",
+                                      "price": 9900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519063",
+                                      "name": "Chocolate Mousse",
+                                      "price": 7900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 7,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129801170",
+                              "name": "Dal Makhni Rice Bowl with Dahi Kebab",
+                              "category": "High protein bowls",
+                              "description": "Best of both the worlds in a bowl. Creamy dal makhani served with rice, salad and soft dahi kebabs. Calories (Kcals) 765, Carbs (Gms) 101, Proteins (Gms) 24, Fats (Gms) 31",
+                              "imageId": "36387f20e4c9063cb62919facf888e5f",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 31900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "151514985",
+                                  "groupName": "Add a Starter",
+                                  "choices": [
+                                    {
+                                      "id": "117519048",
+                                      "name": "Aloo Pattice (2 pcs)",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519068",
+                                      "name": "Falafel Nuggets with Mayo Dip",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519044",
+                                      "name": "Potato Chilli Shots with Mayo Dip",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519062",
+                                      "name": "Murgh Haleem Kebab (2 pcs)",
+                                      "price": 8900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519045",
+                                      "name": "Cheesy Chicken Meatballs (3 Pcs)",
+                                      "price": 6900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519061",
+                                      "name": "Hara Bhara Kebab (2 pcs)",
+                                      "price": 5900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 6,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514986",
+                                  "groupName": "Add a Side",
+                                  "choices": [
+                                    {
+                                      "id": "118459487",
+                                      "name": "Omelette",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "119177190",
+                                      "name": "Mixed Pickled Vegetables (10g)",
+                                      "price": 1000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519047",
+                                      "name": "Curd",
+                                      "price": 2900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519041",
+                                      "name": "Mint Raita",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519043",
+                                      "name": "Mirchi Ka Salan",
+                                      "price": 4500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519058",
+                                      "name": "Mughlai Gravy",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519056",
+                                      "name": "Honey Mustard Sauce (100g) (Save Rs 20)",
+                                      "price": 6900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519054",
+                                      "name": "Chimmichuri Sauce (100g)  (Save Rs 20)",
+                                      "price": 6900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 8,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514987",
+                                  "groupName": "Add a Beverage",
+                                  "choices": [
+                                    {
+                                      "id": "117519052",
+                                      "name": "Tender Coconut Water",
+                                      "price": 9524,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519064",
+                                      "name": "Lemon Ice Tea",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519065",
+                                      "name": "Mint Chaas",
+                                      "price": 4900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519060",
+                                      "name": "SWIG Jeera Masala Soda",
+                                      "price": 5900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519042",
+                                      "name": "Coca-Cola Bottle (475 ml)",
+                                      "price": 5700,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519066",
+                                      "name": "Thums Up Can (330 ml)",
+                                      "price": 6650,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 6,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "151514988",
+                                  "groupName": "Add a Dessert",
+                                  "choices": [
+                                    {
+                                      "id": "117519053",
+                                      "name": "Alphonso Mango Ice Cream",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519055",
+                                      "name": "Moong Dal Halwa (100 gm)",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519057",
+                                      "name": "Gulab Jamun - Pack of 1",
+                                      "price": 3900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519059",
+                                      "name": "Choco Lava Cake",
+                                      "price": 9900,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519067",
+                                      "name": "Belgian Chocolate Ice Cream",
+                                      "price": 9900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519046",
+                                      "name": "Gajar Halwa (100 gm)",
+                                      "price": 9900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    },
+                                    {
+                                      "id": "117519063",
+                                      "name": "Chocolate Mousse",
+                                      "price": 7900,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 7,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.5",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Beverages",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129801173",
+                              "name": "Skimmed Mint Buttermilk",
+                              "category": "Beverages",
+                              "description": "Mildly spiced Indian buttermilk with the freshness of mint.",
+                              "imageId": "dafcdc5c1354f991385ea55974a5e00b",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129801172",
+                              "name": "Masala Lemonade (200 mL)",
+                              "category": "Beverages",
+                              "description": "A refreshing classic drink with combined goodness of fresh lime, himalayan pink salt & infused spices.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/10/516153ac-3005-4e1f-a78d-a0a15d922c3c_8eab094b-6c26-4f44-ba05-a3b4cfa39522.jpeg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 4600,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "139858539",
+                              "name": "Tender Coconut Water (200 mL)",
+                              "category": "Beverages",
+                              "description": "Every athlete's go-to natural energy drink, Coconut water (in collaboration with Raw Pressery) is a complete win-win for your everyday rehydration needs.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/6/1c0c0e45-8873-4e16-ac3e-087ac56a1dd3_78d5d772-9976-48d7-9cc6-36549b75d5d0.jpeg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9524,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "139896015",
+                              "name": "Jeera Masala Soda (350 mL)",
+                              "category": "Beverages",
+                              "description": "Aerated drink with the added zing of jeera and masala, a perfect accompaniment to your meal.",
+                              "imageId": "25b016a4f3021dad1923cf8d39f2378a",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5700,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "139896014",
+                              "name": "Cold Coffee (200 mL)",
+                              "category": "Beverages",
+                              "description": "Guaranteed to satisfy your craving for caffeine and coolness, this refreshing, ready-to-drink, cold coffee is an all time favourite.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/24/37f0464e-af74-4827-833e-c7a7b15fa2ec_be19ceb8-7faa-4e53-ad7c-69f6c45d893a.jpeg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "133731439",
+                              "name": "Lemon Ice Tea (250 mL)",
+                              "category": "Beverages",
+                              "description": "Sip on this refreshing drink for a citrusy lemon punch, infused with brewed tea. This iced tea is a perfect way to re-energize you anytime of the day!",
+                              "imageId": "4fdd0d1329d39d35824c40df2e86004a",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": ["License No. 11222334000943"]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Vital Bowls - Salads & more",
+                      "area": "BTM 1st Stage",
+                      "completeAddress": "Shop No.4, Frist Floor, NGK Complex, Tavarekere Main Rd, 1st Stage, BTM Layout, Bengaluru, Karnataka 560029 ( Above DMart Ready)"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "a75deee8-92ae-449b-b500-036f3a265d08",
+  "sid": "exz7876a-fc19-4e72-9d50-b2f53ee3a79e",
+  "deviceId": "9dc01957-826b-39d2-2617-7b0ff54b8605",
+  "csrfToken": "WMDy7AWDoKnN-5_9_km3vdIc4M3WIiMszEbUP9Ho"
+}

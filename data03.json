@@ -1,0 +1,1876 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+            "text": "GetAWay-Ice Creams & Desserts",
+            "headerStyling": {
+              "textColor": "text_Highest_Emphasis",
+              "textVariant": "header_H3_Black"
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+            "tabs": [
+              {
+                "id": "Order Online",
+                "title": "Order Online"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "612861",
+              "name": "GetAWay-Ice Creams & Desserts",
+              "city": "Bangalore",
+              "slugs": {
+                "restaurant": "getawhey-healthy-ice-creams-koramangala-koramangala",
+                "city": "bangalore"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/9/7868f9c9-e693-4788-9734-d44f075c36da_612861.jpg",
+              "locality": "6th Block",
+              "areaName": "Koramangala",
+              "costForTwo": "20000",
+              "costForTwoMessage": "₹200 for two",
+              "cuisines": ["Ice Cream", "Desserts"],
+              "avgRating": 4.5,
+              "veg": true,
+              "feeDetails": {},
+              "parentId": "354819",
+              "avgRatingString": "4.5",
+              "totalRatingsString": "100+ ratings",
+              "sla": {
+                "restaurantId": "612861",
+                "lastMileTravel": 854.7,
+                "serviceability": "NON_SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "lastMileTravelString": "854.7 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2024-07-14 00:00:00",
+                "visibility": true,
+                "opened": true,
+                "restaurantClosedMeta": {}
+              },
+              "aggregatedDiscountInfo": {
+                "header": "Get items under 199",
+                "shortDescriptionList": [
+                  {
+                    "meta": "Get items under 199",
+                    "discountType": "FinalPrice",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "50% off | Use TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "Get items under 199",
+                    "discountType": "FinalPrice",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "50% off up to ₹100 | Use code TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "visible": true
+              },
+              "badges": {},
+              "slugString": "getawhey-healthy-ice-creams-koramangala-koramangala",
+              "multiOutlet": true,
+              "isOpen": true,
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "Commercial No. 504, 1st Floor, 6th Cross, 6th Block, Koramangala, Club Road, Bangalore, Karnataka"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "Ice Cream,Desserts"
+                }
+              ],
+              "totalRatings": 100,
+              "aggregatedDiscountInfoV2": {
+                "header": "Get items under 199",
+                "shortDescriptionList": [
+                  {
+                    "meta": "Get items under 199",
+                    "discountType": "FinalPrice",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "50% off | Use TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "Get items under 199",
+                    "discountType": "FinalPrice",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "50% off up to ₹100 | Use code TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "couponDetailsCta": "View coupon details"
+              },
+              "type": "F",
+              "nudgeBanners": [
+                {
+                  "priority": 1,
+                  "discountInfo": {
+                    "discountType": "FinalPrice",
+                    "value": 199
+                  },
+                  "unlockedMessage": "Deal of the Day unlocked!",
+                  "minItemCount": 1,
+                  "maxItemCount": 1,
+                  "type": "SILD",
+                  "nudgeTagInfo": {
+                    "title": "Deal of the Day",
+                    "fontName": "FONT_NAME_CONDENSED_BOLD"
+                  },
+                  "logoCtx": {}
+                }
+              ],
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/612861"
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "availabilityServiceabilityMessage": "Does not deliver to your location",
+              "orderabilityCommunication": {
+                "title": {
+                  "text": "Wish you were"
+                },
+                "subTitle": {
+                  "text": "CLOSER!"
+                },
+                "message": {
+                  "text": "This location is outside the outlet's delivery area",
+                  "textColour": "negative"
+                },
+                "customIcon": {
+                  "bgGradientColorStart": "#F64C41",
+                  "bgGradientColorEnd": "#E53554"
+                }
+              },
+              "hasGuiltfreeItems": true,
+              "nearestOutletNudge": {
+                "nearestOutletInfo": {
+                  "siblingOutlet": {
+                    "id": "608430",
+                    "city": "0",
+                    "slugs": {},
+                    "areaName": "ANDHERI KURLA ROAD",
+                    "costForTwo": "0",
+                    "feeDetails": {},
+                    "sla": {
+                      "deliveryTime": 37,
+                      "lastMileTravel": 2.4,
+                      "slaString": "37 MINS",
+                      "lastMileTravelString": "2.4 km",
+                      "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                      "restaurantClosedMeta": {}
+                    },
+                    "aggregatedDiscountInfo": {
+                      "visible": true
+                    },
+                    "badges": {},
+                    "aggregatedDiscountInfoV2": {
+                      "visible": true
+                    },
+                    "availabilityServiceabilityMessage": "Temporarily closed for delivery",
+                    "cartOrderabilityNudgeBanner": {
+                      "parameters": {},
+                      "presentation": {}
+                    }
+                  }
+                },
+                "nearestOutletComms": {
+                  "title": {
+                    "text": "Don't worry! Try our outlet that's delivering"
+                  },
+                  "subTitle": {
+                    "text": "Switch to the fastest alternate"
+                  }
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {},
+                "presentation": {}
+              },
+              "latLong": "12.937504,77.624254",
+              "backgroundImageOverlayInfo": {}
+            },
+            "analytics": {}
+          },
+          "relevance": {
+            "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+            "sectionId": "POP_UP_CROUTON_MENU"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "rows": 1,
+              "columns": 5,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 12,
+              "lineSpacing": 10,
+              "widgetPadding": {},
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 10,
+                  "right": 10,
+                  "bottom": 16
+                }
+              },
+              "scrollBar": {}
+            },
+            "id": "offerCollectionWidget_UX4",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                "offers": [
+                  {
+                    "info": {
+                      "header": "ITEMS AT ₹199",
+                      "offerTag": "DEAL OF DAY",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["b4097058-4184-460b-9233-59d5bf657a86"],
+                      "expiryTime": "1970-01-01T04:16:05Z",
+                      "description": "ON SELECT ITEMS |",
+                      "offerType": "offers",
+                      "restId": "612861",
+                      "offerLogo": "offers/deal-of-day",
+                      "descriptionTextColor": "#7302060C",
+                      "showExpiryTimer": true
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "50% OFF UPTO ₹100",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["a83c25c6-2701-45c9-bad3-727e83e00467"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE TRYNEW",
+                      "description": "ABOVE ₹179",
+                      "offerType": "offers",
+                      "restId": "612861",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹125 OFF",
+                      "offerTag": "LATE NIGHT",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["0421b288-8e7a-4d30-8c16-862a4171b7f8"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE LNBINGE",
+                      "description": "ABOVE ₹299",
+                      "offerType": "offers",
+                      "restId": "612861",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹125 OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["446578ba-88bd-4ebd-8634-7fdce471821f"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE FLAT125",
+                      "description": "ABOVE ₹399",
+                      "offerType": "offers",
+                      "restId": "612861",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "10% OFF UPTO ₹200",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/12/2de23314-4b8c-4de8-9d90-d5747fbb3832_Hsbccc.png",
+                      "offerIds": ["b50dac91-e76e-46e8-a247-19a57214fb39"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "NO CODE REQUIRED",
+                      "description": "ABOVE ₹499",
+                      "offerType": "offers",
+                      "restId": "612861",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/12/2de23314-4b8c-4de8-9d90-d5747fbb3832_Hsbccc.png",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  }
+                ],
+                "habitMilestoneInfo": {
+                  "callout": {}
+                },
+                "loyaltyDiscoverPresentationInfo": {
+                  "logoCtx": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "isPureVeg": true,
+                      "badges": {},
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "topRatedFilter": {
+                        "attributes": {
+                          "displayText": "Ratings 4.0+"
+                        }
+                      },
+                      "kidsCategoryFilter": {
+                        "attributes": {
+                          "displayText": "Kids Favourites",
+                          "tooltip": {
+                            "enabled": true,
+                            "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                          }
+                        }
+                      },
+                      "vegFilter": {
+                        "attributes": {
+                          "displayText": "VEG"
+                        }
+                      },
+                      "nonvegFilter": {
+                        "attributes": {
+                          "displayText": "NONVEG"
+                        }
+                      }
+                    },
+                    "relevance": {
+                      "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                      "sectionId": "MENU_FILTER_TOGGLE"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Bars, Kulfis & Popsicles",
+                      "categories": [
+                        {
+                          "title": "Bars",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "141580424",
+                                  "name": "Berry Bliss",
+                                  "category": "Bars, Kulfis & Popsicles",
+                                  "description": "A blueberry core on the inside and cheese ice cream on the outside. It’s like a duet but inside out. \n\n117 kcal per bar.",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/7/1/536ebdc0-92f8-425f-b17a-9679ad0f6113_e933b6c9-2ca5-48ea-8f4a-128f1a59da6e.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 11440,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "141580427",
+                                  "name": "Mango Malai",
+                                  "category": "Bars, Kulfis & Popsicles",
+                                  "description": "Melt away into delicious malai ice cream wrapped around an intense core of tropical mango compote. \n\n110 kcal per bar.",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/7/1/fab6fc27-f3b1-43c2-b4fc-96083b4bd8ae_38b9f12e-d31e-471e-a9c2-214b596e28b1.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 11440,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129056820",
+                                  "name": "Brownie Crunch Ice Cream Bar",
+                                  "category": "Bars, Kulfis & Popsicles",
+                                  "description": "The combination of gooey brownie, smooth ice cream, and crunchy cashews coated with chocolate outside makes for a truly heavenly experience. \n\n118 calories | No Added Sugar",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/ae934e29-e4e2-4017-8378-9526de5a9160_ce014df0-91dc-47e1-8893-56056f415b81_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 11441,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.9",
+                                      "ratingCount": "12 ratings",
+                                      "ratingCountV2": "12"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129056821",
+                                  "name": "Choco Hazelnut Crunch Ice Cream Bar",
+                                  "category": "Bars, Kulfis & Popsicles",
+                                  "description": "Savour the velvety smooth chocolate ice cream, studded with crunchy hazelnut pieces that add an irresistible texture and nutty flavour.\n\n127 calories | No Added Sugar",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/bf49d7be-ae83-4e85-8887-cdcb7e9d7828_9d37fbbb-2e1d-416d-a14c-67bf285fddbc_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 11441,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.8",
+                                      "ratingCount": "15 ratings",
+                                      "ratingCountV2": "15"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Real Milk Kulfis [Zero Added Sugar]",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "102253193",
+                                  "name": "Malai Kulfi [1 Stick]",
+                                  "category": "Bars, Kulfis & Popsicles",
+                                  "description": "With No Added Sugar & just 102 kcal, this classic Malai kulfi is the ultimate treat.\n\n[Per serving: Calories 102kcal, Total Fat 6.6g]",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/97290260-083d-4c94-912e-306361dca355_121251fe-23af-40f0-9b53-335d152cda2e_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 9915,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.6",
+                                      "ratingCount": "7 ratings",
+                                      "ratingCountV2": "7"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "102585229",
+                                  "name": "Rose Kulfi [1 Stick]",
+                                  "category": "Bars, Kulfis & Popsicles",
+                                  "description": "With No Added Sugar & just 103 kcal, this kulfi is accompanied by a divine hint of rose petals.\n\n[Per serving: Calories 103.4kcal, Total 6.72g]",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/5937fd11-64f0-43cd-b1eb-2a1d08c8f70a_2c0c4b2e-49f9-43a2-ad5c-efe5eda55493_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 9915,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "5.0",
+                                      "ratingCount": "8 ratings",
+                                      "ratingCountV2": "8"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "102253195",
+                                  "name": "Roasted Almond Kulfi [1 Stick]",
+                                  "category": "Bars, Kulfis & Popsicles",
+                                  "description": "With No Added Sugar & just 105 kcal, this one's a luxurious treat that will transport you the royal era.\n\n[Per serving: Calories 105kcal, Total Fat 6.84g]",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/0098b796-9fc9-4b18-bd12-5f73af764e9c_1ed5b698-2c74-498c-bb81-0ae9ae5970dc_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 9915,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.0",
+                                      "ratingCount": "5 ratings",
+                                      "ratingCountV2": "5"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Popsicles [Zero Added Sugar]",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "101311907",
+                                  "name": "Guava Chilli Ice Pop",
+                                  "category": "Bars, Kulfis & Popsicles",
+                                  "description": "This 41 kcal vegan ice pop with no added sugar is inspired from street vendors that rubbed red chilli powder on freshly cut guava slice.\n\n[Per serving :  Calories 41 kcal, Total Fat 0.12g]",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/21/1fa5ce88-3604-4118-a9cd-05df60c391ce_a43e55eb-c8a7-4f45-b906-a75f83fb8fb5.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 9915,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.8",
+                                      "ratingCount": "7 ratings",
+                                      "ratingCountV2": "7"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129116912",
+                                  "name": "Strawberry Raspberry Ice Pop",
+                                  "category": "Bars, Kulfis & Popsicles",
+                                  "description": "This 35 kcal vegan ice pop with no added sugar is a refreshing treat, with a tangy flavour of ripe strawberries and juicy raspberries.\n\n35 calories | No Added Sugar",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/21/fd26ad61-a348-43f2-9b2f-57561b5bed69_07f769d4-dd93-4786-9279-208c1a71ef44.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 9915,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "129116913",
+                                  "name": "Tender Coconut Litchi Ice Pop",
+                                  "category": "Bars, Kulfis & Popsicles",
+                                  "description": "This 45 kcal vegan ice pop with no added sugar is a luscious combination of tender coconut and juicy litchis, creating a tropical paradise for your tongue.\n\n45 calories | No Added Sugar",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/21/407a49ad-3737-42c7-973e-6ed078dffc27_2632bd09-dd77-40f6-965d-771272fdc401.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 9915,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "2.7",
+                                      "ratingCount": "5 ratings",
+                                      "ratingCountV2": "5"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "101311911",
+                                  "name": "Orange Ice Pop",
+                                  "category": "Bars, Kulfis & Popsicles",
+                                  "description": "This 34 kcal vegan ice pop with no added sugar is tangy, sweet and made with the real oranges.\n\n[Per serving: Calories 34 kcal, Total Fat 0.12g]",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/21/c57680a6-f55c-4cab-bae9-a0571d32a86f_815cb29d-363e-4952-b0c8-96e5a44e1ab2.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 9915,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.0",
+                                      "ratingCount": "9 ratings",
+                                      "ratingCountV2": "9"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "101311924",
+                                  "name": "Cola Blast Ice Pop",
+                                  "category": "Bars, Kulfis & Popsicles",
+                                  "description": "This 34 kcal vegan ice pop with no added sugar will immerse you in nostalgia, that reminds you of chilled cola.\n\n[Per serving: Calories 33.6kcal, Total Fat 0.12g]",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/21/45b26798-9e3f-4d51-9d59-bfab71cafe3c_a5c64bdf-97fb-48d6-870f-fb770d1c3b49.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 9915,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.0",
+                                      "ratingCount": "7 ratings",
+                                      "ratingCountV2": "7"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Ice Creams",
+                      "categories": [
+                        {
+                          "title": "125 ML Cups",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "132880527",
+                                  "name": "Apple Pie Ice Cream",
+                                  "category": "Ice Creams",
+                                  "description": "This tub of 87 kcal & 75% Less Sugar is made with smooth apple pulp and warm cinnamon, every bite is truly delectable.",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/3/2963231d-7b08-4e23-98e9-17e8880471d4_349f6958-3a11-42ce-9b28-d3cc24b4eacd.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 11441,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "132880528",
+                                  "name": "Vanilla Choco Bite Ice Cream",
+                                  "category": "Ice Creams",
+                                  "description": "This tub of 81 kcal only & 75% Less Sugar is the delightful combination of creamy vanilla flavour and playful chocolate bites. \n\n81 Cal per tub | 75%  Less Sugar",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/3/941d0ce6-a654-4f00-94b4-84fb80c81535_0e42018a-d385-4ad8-bb3c-18523d6b8431.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 9900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "115357482",
+                                  "name": "Belgian Chocolate Ice Cream [125 Ml]",
+                                  "category": "Ice Creams",
+                                  "description": "Packed with 10g Protein & Zero Added Sugar, our velvety soft ice cream with Belgian Chocolate flakes is a decadent indulgence you won't feel guilty about.",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/3/dff8762e-9216-44ea-8598-f67ce3d3b9b3_9e337a0f-2be9-4175-b53e-e70540342e8e.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 11441,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.5",
+                                      "ratingCount": "17 ratings",
+                                      "ratingCountV2": "17"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "104287052",
+                                  "name": "Chocolate Brownie Fudge Ice Cream [125 Ml]",
+                                  "category": "Ice Creams",
+                                  "description": "Packed with 10g Protein & Zero Added Sugar, this rich chocolate ice cream swirled with chunks of moist brownie pieces and ribbons of velvety fudge, is hands down our fav.",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/3/88b39865-36c7-4ba6-a62e-0fa6e0b83f75_71443b23-a0f0-4ed1-8e66-6254178e2812.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 11441,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.9",
+                                      "ratingCount": "7 ratings",
+                                      "ratingCountV2": "7"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "115357484",
+                                  "name": "Mango Ice Cream [125 Ml]",
+                                  "category": "Ice Creams",
+                                  "description": "Packed with 8g Protein & Zero Added Sugar, it's made from fresh and pulpy mangoes, will make you taste summer in every bite you take.",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/3/5b6e12ca-0b3c-4949-8321-ad1111e65896_3edd5325-a514-4503-87fb-04ca4c3ded1f.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 11441,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.7",
+                                      "ratingCount": "17 ratings",
+                                      "ratingCountV2": "17"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "101311951",
+                                  "name": "Strawberry Cheesecake Ice Cream [125 Ml]",
+                                  "category": "Ice Creams",
+                                  "description": "Packed with 8g Protein & Zero Added Sugar, this one's a gourmet combination of creamy textured cheesecake with succulent strawberries.",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/3/ca980ff1-2e1e-4caf-9540-6702ac50e8f4_816333d9-f984-4230-85fc-c21c15375415.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 11441,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.7",
+                                      "ratingCount": "12 ratings",
+                                      "ratingCountV2": "12"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "115357483",
+                                  "name": "Sicilian Pistachio Ice Cream [125 Ml]",
+                                  "category": "Ice Creams",
+                                  "description": "Packed with 10g Protein & Zero Added Sugar,this one is inspired by quaint italian towns, this is the finest pistachio ice cream you will ever have.",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/3/7026f6eb-9fb9-447a-b6b3-83bef5caef31_3c15eeda-183a-41ea-9c12-fe2133b12d6a.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 11441,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "2.4",
+                                      "ratingCount": "7 ratings",
+                                      "ratingCountV2": "7"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "132418465",
+                                  "name": "Chocolate Overload Ice Cream [125 ml ]",
+                                  "category": "Ice Creams",
+                                  "description": "With 75% Less Sugar, this tub of 103 kcal only is full of crushed chocolate, bits of cocoa and a soft creamy indulgence of chocolate ice cream. Loved by Malaika\n\n103 kcal per tub",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/3/21c591d8-0ff4-4f2a-8838-9f944d6012a1_8a1bf810-d8a9-4f96-9cd9-f226478a2796.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 11441,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "101311994",
+                                  "name": "Keto Blueberry Cheesecake Ice Cream Tub [125 Ml]",
+                                  "category": "Ice Creams",
+                                  "description": "With Zero Added Sugar, this is the ultimate keto lovers treat.It contains real blueberries with bits of decadent cheesecake.\n\n[Per 100g: Net Carbs 6.5g, Protein 9.5g]",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/3/1f8245c6-752b-4284-bc7e-d2c802267a8a_89269174-71f1-41b2-870b-0a97935b644e.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 14831,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.6",
+                                      "ratingCount": "9 ratings",
+                                      "ratingCountV2": "9"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "101311985",
+                                  "name": "Keto Belgian Chocolate Ice Cream [125 Ml]",
+                                  "category": "Ice Creams",
+                                  "description": "Rich chocolate ice cream with Zero Added Sugar, this is the perfect treat for all you keto lovers.\n\n[Per 100g: Net Carbs 5.5g, Protein 9.6g]",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/3/560c12f3-cdcd-4639-b1e8-8bdd614a43b2_a7d07adb-503a-4c63-804e-1a9e05b8d2f8.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 14831,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.7",
+                                      "ratingCount": "12 ratings",
+                                      "ratingCountV2": "12"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "104287054",
+                                  "name": "Keto Very Berry Ice Cream [125 Ml]",
+                                  "category": "Ice Creams",
+                                  "description": "Indulge in the vibrant flavours of juicy berries, carefully blended into a creamy, velvety base that is low in Net Carbs with Zero Added Sugar.\n\n[Per 100g: Net Carbs 5.5g, Protein 9.5g, ]",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/3/254adbae-4e3e-4c37-a8e8-c5491e52dfff_99128a4f-dcd0-420a-b041-cf8a35322f8a.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 14800,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "5.0",
+                                      "ratingCount": "9 ratings",
+                                      "ratingCountV2": "9"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "520 ML Tubs",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "101311955",
+                                  "name": "Belgian Chocolate Ice Cream [520 Ml]",
+                                  "category": "Ice Creams",
+                                  "description": "Packed with 12.5g Protein per 100g & Zero Added Sugar, our velvety soft ice cream with Belgian chocolate flakes is a decadent indulgence you won't feel guilty about.",
+                                  "imageId": "a49241e330da78b5e4f2b9ec2281edad",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 42372,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "101311976",
+                                  "name": "Chocolate Brownie Fudge Ice Cream [520 Ml]",
+                                  "category": "Ice Creams",
+                                  "description": "Packed with 13g Protein per 100g & Zero Added Sugar, this rich chocolate ice cream swirled with chunks of moist brownie pieces and ribbons of velvety fudge, is completely guilt free.",
+                                  "imageId": "4819de3cfb34ca2aef8514728e70d323",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 42372,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "5.0",
+                                      "ratingCount": "4 ratings",
+                                      "ratingCountV2": "4"
+                                    }
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "101311959",
+                                  "name": "Mango Ice Cream [520 Ml]",
+                                  "category": "Ice Creams",
+                                  "description": "Packed with 10g Protein per 100g & Zero Added Sugar, this one is made from fresh and pulpy mangoes. It will make you taste summer in every bite you take.",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/b1f20e3b-eb6b-42fa-ba45-b22bf5d831a7_0374e919-e5a8-4cb8-89e8-72f3d01cd6bb_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 42372,
+                                  "finalPrice": 19900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "offerTags": [{}],
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "itemNudgeType": "FinalPrice",
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "104287055",
+                                  "name": "Keto Very Berry Ice Cream [520 Ml]",
+                                  "category": "Ice Creams",
+                                  "description": "Indulge in the vibrant flavours of juicy berries, carefully blended into a creamy, velvety base that is low in Net Carbs with Zero Added Sugar.\n\n[Per 100g: Net Carbs 5.5g, Protein 9.5g]",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/432994c6-3a0a-4e4a-9222-358c42c684bf_f048b4a1-4a8b-404f-b7f1-3c987b3a44bd_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 55084,
+                                  "finalPrice": 19900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "offerTags": [{}],
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "itemNudgeType": "FinalPrice",
+                                  "isGuiltfree": true,
+                                  "ratings": {
+                                    "aggregatedRating": {}
+                                  },
+                                  "itemPriceStrikeOff": true
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Ice Cream Sandwiches & Cassata",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "101312006",
+                              "name": "Sandwich Chocolate Brownie Ice Cream [2 Pieces]",
+                              "category": "Ice Cream Sandwiches & Cassata",
+                              "description": "With Zero Added Sugar, each sandwich has 92 kcal. It is made with chocolate ice cream and bits of brownie sandwiched between delectable chocolate cookies.\n\n[Per sandwich: Calories 92 kcal, Total Fat 2.5g]",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/23/bf97baf4-15f3-40f9-af2a-c8214d0d6a08_fdde970c-eb3b-4aa1-9a71-a0c9425067a4.jpg_compressed",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16949,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.5",
+                                  "ratingCount": "13 ratings",
+                                  "ratingCountV2": "13"
+                                }
+                              },
+                              "itemPriceStrikeOff": true
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "101312009",
+                              "name": "Sandwich Blueberry Ice Cream [2 Pieces]",
+                              "category": "Ice Cream Sandwiches & Cassata",
+                              "description": "With Zero Added Sugar, each sandwich has 92 kcal. It has the tartness of our low-cal blueberry ice cream, nicely nested between two sumptuously soft chocolate cookies.\n\n[Per sandwich: Calories 92 kcal, Total Fat 2.6g]",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/23/62bf22e4-608c-4409-b06c-55b1af22bd86_f88aa6a4-3cbe-43e6-8d59-0ea504c65b47.jpg_compressed",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16949,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.7",
+                                  "ratingCount": "7 ratings",
+                                  "ratingCountV2": "7"
+                                }
+                              },
+                              "itemPriceStrikeOff": true
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Sundaes",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "143087694",
+                              "name": "Berry Vanilla Parfait Ice Cream Sundae",
+                              "category": "Sundaes",
+                              "description": "Our new Berry Vanilla Layers is going to make you indulge with lesser guilt. \nWe start with a Vanilla Cake Layer, topped up with the Scrumptious Blueberry Sauce, a guilt free layer of Berry Vanilla Ice Cream and little more Blueberry Sauce covered with Oats Cookie Crumble pieces, for the ultimate dessert experience.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/28/4f81722e-1786-47fe-a49f-52fc2a0bdf02_8eaa058c-527a-484f-b86a-6ef86e53418a.jpg_compressed",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 33814,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "itemPriceStrikeOff": true
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "143087696",
+                              "name": "Fudgy Brownie Ice Cream Sundae",
+                              "category": "Sundaes",
+                              "description": "Our new Fudgy Brownie Layers will tickle your taste buds with lesser guilt.\nBeginning with a dense Chocolate Brownie Layer, sprinkled with some Ganache, followed by scrumptious dollop of our Chocolate Brownie Ice Cream, generously topped with Hot Fudge Sauce and Chocolate Cookie Crumble mixed with Roasted Cashew Nuts for which you will surely crave for more.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/6/28/46597902-6417-4a95-aa08-71f927131162_1d2b4c64-0983-46da-9a86-1af7c2ff810d.jpg_compressed",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 33814,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "itemPriceStrikeOff": true
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Cheesecakes & Pastries",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "141580425",
+                              "name": "Biscrunch Ice Cream Pastry",
+                              "category": "Cheesecakes & Pastries",
+                              "description": "With 50% Less Sugar, this treat is made with caramel cake topped with Biscoff spread & a generous sprinkle of Biscoff crumbs.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/7/1/b85324f7-7be5-4212-b38f-5034480b516a_baa61307-607f-4b70-9296-838d71af497c.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12711,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "itemPriceStrikeOff": true
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "141580428",
+                              "name": "Red Velvet Ice Cream Pastry",
+                              "category": "Cheesecakes & Pastries",
+                              "description": "With 50% Less Sugar, this perfect treat is made of moist red velvet cake and a scoop of cheese ice cream nested within the cake.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/7/1/dddc20f8-1fb1-4235-b7ed-d7ec6a662f4a_ca3eb599-af8d-46a4-b616-02a3afda24ab.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12711,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "itemPriceStrikeOff": true
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "111928669",
+                              "name": "New York Style Cheesecake Slice",
+                              "category": "Cheesecakes & Pastries",
+                              "description": "Zero Added Sugar & only 4.7 g Net Carbs! This keto-friendly OG cheesecake is dense and rich, baked with the goodness of cream cheese.\n\n [Per slice: Net Carbs 4.7g, Protein 5.6g]",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/7/1/896adc8f-eca4-4154-88c8-50ba1d1ef71c_d7070913-343b-4eb6-9be0-588f8fc7b8d9.jpg_compressed",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 28813,
+                              "finalPrice": 19900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [{}],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "itemNudgeType": "FinalPrice",
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "12 ratings",
+                                  "ratingCountV2": "12"
+                                }
+                              },
+                              "itemPriceStrikeOff": true
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "111928670",
+                              "name": "Double Choco Cheesecake Slice",
+                              "category": "Cheesecakes & Pastries",
+                              "description": "Zero Added Sugar & Keto-friendly! This is a silky, dense cheesecake, full of rich chocolate flavour. \n\n[Per slice: Net Carbs 8.1g, Protein 5.4g]",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/7/1/f9714f83-88e3-48f8-9f7d-0dbcd68a567b_97eed9a6-2c72-472c-be99-3dc2dccccf56.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 28813,
+                              "finalPrice": 19900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [{}],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "itemNudgeType": "FinalPrice",
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              },
+                              "itemPriceStrikeOff": true
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "111928668",
+                              "name": "Blueberry Cheesecake Slice",
+                              "category": "Cheesecakes & Pastries",
+                              "description": "Zero Added Sugar & only 5.2 g Net Carbs! It's light-yet-rich, studded with blueberries inside and smothered in an incredible glaze.\n\n[Per slice: Net Carbs 5.2g, Protein 5.3g]",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/7/1/737ff986-f4f8-476b-9d13-05977b86dda5_7dbe8a94-9069-4163-89bb-29ff08b06a37.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 28813,
+                              "finalPrice": 19900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [{}],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "itemNudgeType": "FinalPrice",
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              },
+                              "itemPriceStrikeOff": true
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "117469897",
+                              "name": "Black Forest Ice Cream Pastry [100 Grams]",
+                              "category": "Cheesecakes & Pastries",
+                              "description": "Made with 50% Lower Calories & 50% Less Sugar, this treat features layers of decadent chocolate cake and rich, creamy ice cream.\n\n.[Per 100g: Calories 136.6kcal, Protein 3.2g, Fat 5g]",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/27/1d9e0cdf-c9e4-46fa-ba43-0875adf1ff63_8ad1fa61-cf61-4cf3-ada5-16cd9d926dcd.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14831,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "itemPriceStrikeOff": true
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Chocolates",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "134258970",
+                              "name": "Dark Chocolate 40g",
+                              "category": "Chocolates",
+                              "description": "With 50% African Cacao, this dark chocolate will certainly melt in your mouth. Sweetened with dates.\n\n zero added sugar. 50% Cacao , 50% Date Powder",
+                              "imageId": "4c2a0be943a84baeb0a8bf0fbf47ce16",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11441,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "itemPriceStrikeOff": true
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "134258968",
+                              "name": "Milk Chocolate 40g",
+                              "category": "Chocolates",
+                              "description": "Crafted from a harmonious combination of African Cacao & dates, this milk chocolate if full of comfort & nostalgia.\n\n35% Cacao, 47% Date Powder, 18% Milk Powder",
+                              "imageId": "0346786ff103eddc8b5f63ee3a6f37a7",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12711,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "itemPriceStrikeOff": true
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "138355896",
+                              "name": "Sea Salt Dark Chocolate 40G",
+                              "category": "Chocolates",
+                              "description": "Our master chocolatiers have meticulously balanced the bitter undertones of dark chocolate with a delicate sprinkling of sea salt.\n\n50% Cacao, 50% Date Powder",
+                              "imageId": "f59e0213620f531fc9279c965da944c5",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12711,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "itemPriceStrikeOff": true
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": ["License No. 11221334001083"]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "GetAWay-Ice Creams & Desserts",
+                      "area": "Koramangala",
+                      "completeAddress": "Commercial No. 504, 1st Floor, 6th Cross, 6th Block, Koramangala, Club Road, Bangalore, Karnataka"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "a75deee8-92ae-449b-b500-036f3a265d08",
+  "sid": "exz7876a-fc19-4e72-9d50-b2f53ee3a79e",
+  "deviceId": "9dc01957-826b-39d2-2617-7b0ff54b8605",
+  "csrfToken": "rCneO4NSl09I-o4BSvETm0b5LBNrMTOQ2Kx8dcWE"
+}

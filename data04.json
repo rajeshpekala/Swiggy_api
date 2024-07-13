@@ -1,0 +1,2394 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+            "text": "Namaste",
+            "headerStyling": {
+              "textColor": "text_Highest_Emphasis",
+              "textVariant": "header_H3_Black"
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+            "tabs": [
+              {
+                "id": "Order Online",
+                "title": "Order Online"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "241027",
+              "name": "Namaste",
+              "city": "Bangalore",
+              "slugs": {
+                "restaurant": "namaste-hsr-hsr",
+                "city": "bangalore"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "dtcwa1rxdskp3crqvpr3",
+              "locality": "3rd Sector",
+              "areaName": "Hsr Layout",
+              "costForTwo": "10000",
+              "costForTwoMessage": "₹100 for two",
+              "cuisines": ["South Indian", "Thalis"],
+              "avgRating": 4.3,
+              "feeDetails": {},
+              "parentId": "366271",
+              "avgRatingString": "4.3",
+              "totalRatingsString": "10K+ ratings",
+              "sla": {
+                "restaurantId": "241027",
+                "lastMileTravel": 857.9,
+                "serviceability": "NON_SERVICEABLE",
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "lastMileTravelString": "857.9 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2024-07-14 01:00:00",
+                "visibility": true,
+                "opened": true,
+                "restaurantClosedMeta": {}
+              },
+              "aggregatedDiscountInfo": {
+                "shortDescriptionList": [
+                  {
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "10% off upto ₹200 | Above ₹499",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "20% off upto ₹125 |  Use BOBDC Above ₹299",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "visible": true
+              },
+              "badges": {},
+              "slugString": "namaste-hsr-hsr",
+              "isOpen": true,
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "1086/A, 1087/A, 14th Main, 18th Cross Rd, near BDA Complex, III Sector, HSR Layout, Bengaluru, Karnataka 560102"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "South Indian,Thalis"
+                }
+              ],
+              "totalRatings": 10000,
+              "aggregatedDiscountInfoV2": {
+                "shortDescriptionList": [
+                  {
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "10% off upto ₹200 | Above ₹499",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "20% off upto ₹125 |  Use BOBDC Above ₹299",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "couponDetailsCta": "View coupon details"
+              },
+              "type": "F",
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/241027"
+              },
+              "generalPurposeInfoListV2": [
+                {
+                  "imageId": "trending_solid",
+                  "fontColor": "#7E808C",
+                  "cta": {
+                    "info": {
+                      "recordings": {}
+                    },
+                    "linkCta": {}
+                  }
+                }
+              ],
+              "ratingSlab": "RATING_SLAB_5",
+              "availabilityServiceabilityMessage": "Does not deliver to your location",
+              "orderabilityCommunication": {
+                "title": {
+                  "text": "Wish you were"
+                },
+                "subTitle": {
+                  "text": "CLOSER!"
+                },
+                "message": {
+                  "text": "This location is outside the outlet's delivery area",
+                  "textColour": "negative"
+                },
+                "customIcon": {
+                  "bgGradientColorStart": "#F64C41",
+                  "bgGradientColorEnd": "#E53554"
+                }
+              },
+              "hasBestsellerItems": true,
+              "hasGuiltfreeItems": true,
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {},
+                "presentation": {}
+              },
+              "latLong": "12.9119367,77.6392422999999",
+              "backgroundImageOverlayInfo": {}
+            },
+            "analytics": {}
+          },
+          "relevance": {
+            "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+            "sectionId": "POP_UP_CROUTON_MENU"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "rows": 1,
+              "columns": 4,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 12,
+              "lineSpacing": 10,
+              "widgetPadding": {},
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 10,
+                  "right": 10,
+                  "bottom": 16
+                }
+              },
+              "scrollBar": {}
+            },
+            "id": "offerCollectionWidget_UX4",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                "offers": [
+                  {
+                    "info": {
+                      "header": "10% OFF UPTO ₹200",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/12/2de23314-4b8c-4de8-9d90-d5747fbb3832_Hsbccc.png",
+                      "offerIds": ["b50dac91-e76e-46e8-a247-19a57214fb39"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "NO CODE REQUIRED",
+                      "description": "ABOVE ₹499",
+                      "offerType": "offers",
+                      "restId": "241027",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/12/2de23314-4b8c-4de8-9d90-d5747fbb3832_Hsbccc.png",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "20% OFF UPTO ₹125",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/6/30/5652719b-c6bc-4f4b-a5d7-39917a6ffdf6_BOBMenuVisibilityLogo.png",
+                      "offerIds": ["69b0ec3d-0b23-44b3-9bb5-1c9a923a1b2a"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE BOBDC",
+                      "description": "ABOVE ₹299",
+                      "offerType": "offers",
+                      "restId": "241027",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/6/30/5652719b-c6bc-4f4b-a5d7-39917a6ffdf6_BOBMenuVisibilityLogo.png",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "10% OFF UPTO ₹150",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/3/a6404599-9a7c-41f2-be8c-185da182b1f2_HSBC.png",
+                      "offerIds": ["b2802d50-6c45-43b1-adb4-eb5e4b8b74d7"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE HSBCFEST",
+                      "description": "ABOVE ₹499",
+                      "offerType": "offers",
+                      "restId": "241027",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/3/a6404599-9a7c-41f2-be8c-185da182b1f2_HSBC.png",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹150 OFF",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/5/e00ba433-50f1-4605-ac91-9db423ebf3a2_AMEX.png",
+                      "offerIds": ["ed14f4f0-9d7b-401f-8d2d-758f966aefe0"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE AMEX150",
+                      "description": "ABOVE ₹600",
+                      "offerType": "offers",
+                      "restId": "241027",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/5/e00ba433-50f1-4605-ac91-9db423ebf3a2_AMEX.png",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  }
+                ],
+                "habitMilestoneInfo": {
+                  "callout": {}
+                },
+                "loyaltyDiscoverPresentationInfo": {
+                  "logoCtx": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "badges": {},
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "topRatedFilter": {
+                        "attributes": {
+                          "displayText": "Ratings 4.0+"
+                        }
+                      },
+                      "kidsCategoryFilter": {
+                        "attributes": {
+                          "displayText": "Kids Favourites",
+                          "tooltip": {
+                            "enabled": true,
+                            "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                          }
+                        }
+                      },
+                      "vegFilter": {
+                        "attributes": {
+                          "displayText": "VEG"
+                        }
+                      },
+                      "nonvegFilter": {
+                        "attributes": {
+                          "displayText": "NONVEG"
+                        }
+                      }
+                    },
+                    "relevance": {
+                      "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                      "sectionId": "MENU_FILTER_TOGGLE"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "South Indian",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "48490173",
+                              "name": "Idli (2pc)",
+                              "category": "South Indian",
+                              "description": "Served with sambar and chutney. No soda, artificial colour or any other chemical used in the preparation.",
+                              "imageId": "ixlexdhrxpu2ir9cc6xr",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "5183 ratings",
+                                  "ratingCountV2": "5183"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "48490176",
+                              "name": "Masala Dosa ",
+                              "category": "South Indian",
+                              "description": "[medium size] served with only chutney. No soda, artificial colour or any other chemical used in the preparation. (Serves 1)",
+                              "imageId": "hprrkr2aghvcmk6ikjlk",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "158095540",
+                                  "groupName": "Add-ons",
+                                  "choices": [
+                                    {
+                                      "id": "24476975",
+                                      "name": "Breakfast Sambar",
+                                      "price": 500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "6929 ratings",
+                                  "ratingCountV2": "6929"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "48490177",
+                              "name": "Plain dosa (served with only chutney)",
+                              "category": "South Indian",
+                              "description": "[medium size] served with only chutney. No soda, artificial colour or any other chemical used in the preparation.  (Serves -1)",
+                              "imageId": "hprrkr2aghvcmk6ikjlk",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "159227554",
+                                  "groupName": "Add-ons",
+                                  "choices": [
+                                    {
+                                      "id": "24476975",
+                                      "name": "Breakfast Sambar",
+                                      "price": 500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": 1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "1814 ratings",
+                                  "ratingCountV2": "1814"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "60930332",
+                              "name": "Extra Coconut Chutney (250 ml)",
+                              "category": "South Indian",
+                              "description": "No soda, artificial colour or any other chemical used in the preparation.",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "116 ratings",
+                                  "ratingCountV2": "116"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "60930334",
+                              "name": "Extra Breakfast Sambar (250ml)",
+                              "category": "South Indian",
+                              "description": "No soda, artificial colour or any other chemical used in the preparation.",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 4900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "161 ratings",
+                                  "ratingCountV2": "161"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "48490171",
+                              "name": "Vada (2 Pc)",
+                              "category": "South Indian",
+                              "description": "Served with sambar and chutney. No soda, artificial colour or any other chemical used in the preparation.(Serves -1)",
+                              "imageId": "li6rjgyvt9a44byienf1",
+                              "isVeg": 1,
+                              "price": 5900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "4353 ratings",
+                                  "ratingCountV2": "4353"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "55395485",
+                              "name": "Poori (3 Pc) Sagu",
+                              "category": "South Indian",
+                              "description": "Served with saagu and chutney. No soda, artificial colour or any other chemical used in the preparation.",
+                              "imageId": "0bf80e5fd34d5188884e62fe868c4bfe",
+                              "isVeg": 1,
+                              "price": 9900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "1645 ratings",
+                                  "ratingCountV2": "1645"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "58180523",
+                              "name": "Akki Roti (2 Pc)",
+                              "category": "South Indian",
+                              "description": "Served with saagu and chutney. No soda, artificial colour or any other chemical used in the preparation.",
+                              "imageId": "149e077d65ff8f05bd975629230d919a",
+                              "isVeg": 1,
+                              "price": 11900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "1251 ratings",
+                                  "ratingCountV2": "1251"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "51902382",
+                              "name": "Onion Dosa",
+                              "category": "South Indian",
+                              "description": "Served with sagu and chutney. No soda, artificial colour or any other chemical used in the preparation.",
+                              "imageId": "13236f419f511786a01bddc50714ee9f",
+                              "isVeg": 1,
+                              "price": 11900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "991 ratings",
+                                  "ratingCountV2": "991"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "48490162",
+                              "name": "Shavige Bath",
+                              "category": "South Indian",
+                              "description": "Served with chutney. Served at room temperature. No soda, artificial colour or any other chemical used in the preparation.(serves 1)",
+                              "imageId": "nbxagzrmlsbzrdkrid2n",
+                              "isVeg": 1,
+                              "price": 8900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "1791 ratings",
+                                  "ratingCountV2": "1791"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "55335582",
+                              "name": "Ragi Roti (2 Pc)",
+                              "category": "South Indian",
+                              "description": "Served with saagu and chutney. No soda, artificial colour or any other chemical used in the preparation.",
+                              "imageId": "cc6564e2ccfbd819bbc0119ea144361d",
+                              "isVeg": 1,
+                              "price": 11900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isGuiltfree": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "895 ratings",
+                                  "ratingCountV2": "895"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "57843031",
+                              "name": "Milk Upma",
+                              "category": "South Indian",
+                              "description": "Served with chutney. No soda, artificial colour or any other chemical used in the preparation.(Serves -1)",
+                              "imageId": "919a88ade31e2bb70e37dba24f20a718",
+                              "isVeg": 1,
+                              "price": 8900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "611 ratings",
+                                  "ratingCountV2": "611"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "71316895",
+                              "name": "Maddur Vada (2 Pc)",
+                              "category": "South Indian",
+                              "description": "Served with chutney. No soda, artificial colour or any other chemical used in the preparation.",
+                              "imageId": "wlccxavknjleyjnplfk8",
+                              "isVeg": 1,
+                              "price": 6500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "646 ratings",
+                                  "ratingCountV2": "646"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "48490178",
+                              "name": "Kesari Bath ",
+                              "category": "South Indian",
+                              "description": "No soda, artificial colour or any other chemical used in the preparation. (Serves 1)",
+                              "imageId": "dkkth0fk2t8l4oqsru79",
+                              "isVeg": 1,
+                              "price": 4500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "1232 ratings",
+                                  "ratingCountV2": "1232"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "71316897",
+                              "name": "Bisibele Bath",
+                              "category": "South Indian",
+                              "description": "Served with khara boondi. No soda, artificial colour or any other chemical used in the preparation.",
+                              "imageId": "1abc85f4a8836fe7046ca0ca87f97e2e",
+                              "isVeg": 1,
+                              "price": 9900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "713 ratings",
+                                  "ratingCountV2": "713"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "50999624",
+                              "name": "Avalakki Bath",
+                              "category": "South Indian",
+                              "description": "Served with chutney. No soda, artificial colour or any other chemical used in the preparation.",
+                              "imageId": "54ffaa965b5a4b87b0fad040549dd336",
+                              "isVeg": 1,
+                              "price": 7900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "985 ratings",
+                                  "ratingCountV2": "985"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Lunch",
+                      "categories": [
+                        {
+                          "title": "Rice",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "51486653",
+                                  "name": "Rice Bhath",
+                                  "category": "Lunch",
+                                  "description": "A tasty preparation of rice made served with chutney. (Serves 1)",
+                                  "imageId": "wpkuql336sjkvhwa1ah5",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 7900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.0",
+                                      "ratingCount": "811 ratings",
+                                      "ratingCountV2": "811"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "51462419",
+                                  "name": "Curd Rice",
+                                  "category": "Lunch",
+                                  "description": "Soothing and tasty, the curd rice is a healthy meal choice garnished with nuts, curry leaves and green chillies. (Serves 1)",
+                                  "imageId": "zagoc4lk066bghdfvw7k",
+                                  "isVeg": 1,
+                                  "price": 7900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.2",
+                                      "ratingCount": "612 ratings",
+                                      "ratingCountV2": "612"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "51460206",
+                                  "name": "Sambar Rice",
+                                  "category": "Lunch",
+                                  "description": "Steam rice served with vegetable sambar. [serves 1]",
+                                  "imageId": "dryjxsrhfvebeh3qfzcp",
+                                  "isVeg": 1,
+                                  "price": 8900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.3",
+                                      "ratingCount": "110 ratings",
+                                      "ratingCountV2": "110"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "51460207",
+                                  "name": "Rasam Rice",
+                                  "category": "Lunch",
+                                  "description": "Steam rice served with rasam. [serves 1]",
+                                  "imageId": "ukrersztmxokvvbeqdbh",
+                                  "isVeg": 1,
+                                  "price": 8900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.0",
+                                      "ratingCount": "147 ratings",
+                                      "ratingCountV2": "147"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Meals",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "122505280",
+                                  "name": "North Indian Paratha Meal",
+                                  "category": "Lunch",
+                                  "description": "Laccha paratha (2 pc), dal, curry, veg biryani, curd rice, sweet, papad, salad, pickle (serves 1)",
+                                  "imageId": "2cf3ae56817785d3b685429fb5d229a4",
+                                  "isVeg": 1,
+                                  "price": 16900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "nextAvailableAtMessage": "Next available at 12 noon, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.2",
+                                      "ratingCount": "121 ratings",
+                                      "ratingCountV2": "121"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "70642885",
+                                  "name": "Chapati Currry Meal Combo",
+                                  "category": "Lunch",
+                                  "description": "Chapati (2pc), curry and dal served with rice bath. (serves 1)",
+                                  "imageId": "5c809f0778bca482f80b785803bc3573",
+                                  "isVeg": 1,
+                                  "price": 13900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "nextAvailableAtMessage": "Next available at 12 noon, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.2",
+                                      "ratingCount": "221 ratings",
+                                      "ratingCountV2": "221"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "73830848",
+                                  "name": "Chapati (2 Pc) With Curry And Dal",
+                                  "category": "Lunch",
+                                  "description": "Chapati (2pc), curry and dal.",
+                                  "imageId": "9823a15c90a75561d9501689796ef973",
+                                  "isVeg": 1,
+                                  "price": 9900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "nextAvailableAtMessage": "Next available at 12 noon, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.3",
+                                      "ratingCount": "169 ratings",
+                                      "ratingCountV2": "169"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "122374139",
+                                  "name": "North Indian Kulcha Meal",
+                                  "category": "Lunch",
+                                  "description": "2pc kulcha, dal, curry, veg biryani, curd rice, sweet, papad, salad, pickle (serves 1)",
+                                  "imageId": "e88ad39ba4a66cc59f64da94ee157616",
+                                  "isVeg": 1,
+                                  "price": 16900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "nextAvailableAtMessage": "Next available at 12 noon, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.8",
+                                      "ratingCount": "45 ratings",
+                                      "ratingCountV2": "45"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "69753393",
+                                  "name": "North Indian Roti Meal",
+                                  "category": "Lunch",
+                                  "description": "Tandoori roti (2 pc), dal, curry, veg biryani, curd rice, sweet, papad, salad, pickle (serves 1)",
+                                  "imageId": "0c56050641c81b2f56f667b032580e3f",
+                                  "isVeg": 1,
+                                  "price": 16900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "nextAvailableAtMessage": "Next available at 12 noon, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.9",
+                                      "ratingCount": "216 ratings",
+                                      "ratingCountV2": "216"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "120582024",
+                                  "name": "Stuffed Kulcha (2pc) With Curry And Curd",
+                                  "category": "Lunch",
+                                  "description": "Soft kulcha stuffed with vegetable and spices, served with curry and curd.",
+                                  "imageId": "5a021d72a958fd21887d17f66593dc22",
+                                  "isVeg": 1,
+                                  "price": 13900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "nextAvailableAtMessage": "Next available at 12 noon, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.4",
+                                      "ratingCount": "52 ratings",
+                                      "ratingCountV2": "52"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "51467021",
+                                  "name": "Roti Curry",
+                                  "category": "Lunch",
+                                  "description": "2 pc tandoori roti served with curry and dal",
+                                  "imageId": "6aaf7fbeb712a31edc4b50e21f56adc6",
+                                  "isVeg": 1,
+                                  "price": 12900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "nextAvailableAtMessage": "Next available at 12 noon, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.3",
+                                      "ratingCount": "62 ratings",
+                                      "ratingCountV2": "62"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "51464639",
+                                  "name": "South Meal",
+                                  "category": "Lunch",
+                                  "description": "Steam rice, poori (3 pc), curry, palya, sambar, rasam, curd rice, sweet, papad, and pickle. (serves 1)",
+                                  "imageId": "lponvl63eqqwkn0ace3a",
+                                  "isVeg": 1,
+                                  "price": 14900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "nextAvailableAtMessage": "Next available at 12 noon, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.1",
+                                      "ratingCount": "592 ratings",
+                                      "ratingCountV2": "592"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "51464807",
+                                  "name": "Mini Meal",
+                                  "category": "Lunch",
+                                  "description": "Steam rice, sambhar, rasam, dry palya, curd and papad",
+                                  "imageId": "dzwxwmgrph8knzhpspy0",
+                                  "isVeg": 1,
+                                  "price": 9900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "nextAvailableAtMessage": "Next available at 12 noon, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.1",
+                                      "ratingCount": "227 ratings",
+                                      "ratingCountV2": "227"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Specials",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "50771154",
+                              "name": "Veg Biryani ( Basmati Rice )",
+                              "category": "Specials",
+                              "description": "Dum biryani served with raita.",
+                              "imageId": "43d853dec360a0c737cad53ba607bf9b",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "419 ratings",
+                                  "ratingCountV2": "419"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "50771132",
+                              "name": "Tawa Paratha (2pc) With Curry And Dal",
+                              "category": "Specials",
+                              "description": "Served with curry and dal. (Serves 1)",
+                              "imageId": "keb7eonjge0fhfxv9zfy",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "230 ratings",
+                                  "ratingCountV2": "230"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "48490175",
+                              "name": "Aloo Paratha (2 Pc) With Curd And Pickle",
+                              "category": "Specials",
+                              "description": "Served with curd and pickle.",
+                              "imageId": "fgboawqnkch0fspukm9f",
+                              "isVeg": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "2582 ratings",
+                                  "ratingCountV2": "2582"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Cold Beverages",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "51449172",
+                              "name": "Butter Milk",
+                              "category": "Cold Beverages",
+                              "description": "200 ml",
+                              "imageId": "ucmcedcpzv2nfpylxbg7",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 4900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "801 ratings",
+                                  "ratingCountV2": "801"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "51449171",
+                              "name": "Cold Badam Milk",
+                              "category": "Cold Beverages",
+                              "description": "200 ml",
+                              "imageId": "idrzld4ukhsaj7sujels",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 7900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "498 ratings",
+                                  "ratingCountV2": "498"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "71315931",
+                              "name": "Kokum Juice",
+                              "category": "Cold Beverages",
+                              "description": "200 ml",
+                              "imageId": "yu9bffr1az6za2ye4jmz",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "262 ratings",
+                                  "ratingCountV2": "262"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "56208952",
+                              "name": "Sweet Lassi",
+                              "category": "Cold Beverages",
+                              "description": "200 ml",
+                              "imageId": "rbe3d80mkd3sxuo86ddo",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "234 ratings",
+                                  "ratingCountV2": "234"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Exclusive Combos",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "72828225",
+                              "name": "2 Idli + 1 Masala Dosa",
+                              "category": "Exclusive Combos",
+                              "description": "Idli (2 pc) and masala dosa (1 pc) served with coconut chutney and sambar.",
+                              "imageId": "nmgbk8uorovxrvvjyjqd",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "1467 ratings",
+                                  "ratingCountV2": "1467"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "51486651",
+                              "name": "Combo - 2 Idly 1 Vada",
+                              "category": "Exclusive Combos",
+                              "description": "Idly (2 pc) and vada (1 pc) served with a tasty coconut chutney and sambar. No soda, artificial colour or any other chemical used in the preparation.",
+                              "isVeg": 1,
+                              "price": 8500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "665 ratings",
+                                  "ratingCountV2": "665"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Noodles",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "66724564",
+                              "name": "Veg Noodles",
+                              "category": "Noodles",
+                              "description": "No artificial colours, ajinomoto, msg or any other chemicals used in the preparation. (Serves 1)",
+                              "imageId": "610084e9698c94589f144f2fa278dfff",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "310 ratings",
+                                  "ratingCountV2": "310"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "66728356",
+                              "name": "Schezwan Noodles (spicy)",
+                              "category": "Noodles",
+                              "description": "No artificial colours, ajinomoto, msg or any other chemicals used in the preparation.",
+                              "imageId": "f232c71f2c6efc7afb3ab64958f6ee4c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.4",
+                                  "ratingCount": "128 ratings",
+                                  "ratingCountV2": "128"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "125906264",
+                              "name": "Chilli Garlic Noodles",
+                              "category": "Noodles",
+                              "description": "No artificial colours, ajinomoto, msg or any other chemicals used in the preparation. (serves 1)",
+                              "imageId": "4686467c1b3028910fea2c25915c9bdc",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "30 ratings",
+                                  "ratingCountV2": "30"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Fried Rice",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "66723669",
+                              "name": "Veg Fried Rice",
+                              "category": "Fried Rice",
+                              "description": "No artificial colours, ajinomoto, msg or any other chemicals used in the preparation.",
+                              "imageId": "332e85b9b10c2719dfdaae47b49340e5",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "368 ratings",
+                                  "ratingCountV2": "368"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "66727379",
+                              "name": "Schezwan Fried Rice (Spicy)",
+                              "category": "Fried Rice",
+                              "description": "No artificial colours, ajinomoto, msg or any other chemicals used in the preparation.",
+                              "imageId": "1a2701ca965467f84f0a7934a6097e4a",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "154 ratings",
+                                  "ratingCountV2": "154"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Festival Specials",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "66720904",
+                              "name": "Gulab Jamun (2 Pc)",
+                              "category": "Festival Specials",
+                              "description": "No artificial flavours or additives",
+                              "imageId": "kybw7ihvosvnsiyed0od",
+                              "isVeg": 1,
+                              "price": 5900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "487 ratings",
+                                  "ratingCountV2": "487"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74031802",
+                              "name": "Kayi Holige/Obbattu ( Box Of 4 )",
+                              "category": "Festival Specials",
+                              "description": "[4 pcs] a traditional south indian dessert made with coconut and jaggery stuffing",
+                              "imageId": "nkpnbl931zikzdqlepjs",
+                              "isVeg": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "272 ratings",
+                                  "ratingCountV2": "272"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "73830847",
+                              "name": "Kayi Holige/obbattu (1 Pc)",
+                              "category": "Festival Specials",
+                              "description": "A traditional south indian dessert made with coconut and jaggery stuffing",
+                              "imageId": "nkpnbl931zikzdqlepjs",
+                              "isVeg": 1,
+                              "price": 4900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "746 ratings",
+                                  "ratingCountV2": "746"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "138545826",
+                              "name": "Dates Holige/Obbattu (1 Pc)",
+                              "category": "Festival Specials",
+                              "description": "A traditional south indian dessert made with dates, coconut and jaggery stuffing",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/17/6f597d56-3714-490d-9139-2f7032e63013_e8ef643c-59a1-4da4-93f9-a4773963dd33.jpg",
+                              "isVeg": 1,
+                              "price": 6900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "24 ratings",
+                                  "ratingCountV2": "24"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Manchurian",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "66724565",
+                              "name": "Gobi Manchurian Dry",
+                              "category": "Manchurian",
+                              "description": "No artificial colours, ajinomoto, msg or any other chemicals used in the preparation.",
+                              "imageId": "dffde59b60e7ec9b0a3dbf6f335283fd",
+                              "isVeg": 1,
+                              "price": 11900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "556 ratings",
+                                  "ratingCountV2": "556"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "60726634",
+                              "name": "Baby Corn Manchurian Dry",
+                              "category": "Manchurian",
+                              "description": "No artificial colours, ajinomoto, msg or any other chemicals used in the preparation.",
+                              "imageId": "970e26e429e20275bf470375d1a7d176",
+                              "isVeg": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 11:30 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "236 ratings",
+                                  "ratingCountV2": "236"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "63274010",
+                              "name": "Mushroom Manchurian Dry",
+                              "category": "Manchurian",
+                              "description": "No artificial colours, ajinomoto, msg or any other chemicals used in the preparation.",
+                              "imageId": "6cf997b82c269ffe3a252ab80a2066b8",
+                              "isVeg": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 11:30 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.4",
+                                  "ratingCount": "145 ratings",
+                                  "ratingCountV2": "145"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Hot Beverages",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "60979755",
+                              "name": "Filter Coffee Mini Flask (250 Ml)",
+                              "category": "Hot Beverages",
+                              "description": "Serves 3-4",
+                              "imageId": "qbjoqpjygtnbkuakhfri",
+                              "isVeg": 1,
+                              "price": 10900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "836 ratings",
+                                  "ratingCountV2": "836"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "60979812",
+                              "name": "Chai Mini Flask (250 Ml)",
+                              "category": "Hot Beverages",
+                              "description": "Serves 3-4",
+                              "imageId": "odeypfydw4ze1y4ankcl",
+                              "isVeg": 1,
+                              "price": 10900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "373 ratings",
+                                  "ratingCountV2": "373"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "74012742",
+                              "name": "Sugarless Filter Coffee (250 Ml)",
+                              "category": "Hot Beverages",
+                              "description": "Serves 3-4",
+                              "isVeg": 1,
+                              "price": 10900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "60 ratings",
+                                  "ratingCountV2": "60"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "60979813",
+                              "name": "Ginger Tea Mini Flask (250 Ml)",
+                              "category": "Hot Beverages",
+                              "description": "Serves 3-4",
+                              "imageId": "odeypfydw4ze1y4ankcl",
+                              "isVeg": 1,
+                              "price": 10900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "584 ratings",
+                                  "ratingCountV2": "584"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Breakfast Bestsellers",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "145638004",
+                              "name": "Idli (2pc)                           ",
+                              "category": "Breakfast Bestsellers",
+                              "description": "Served with sambar and chutney. No soda, artificial colour or any other chemical used in the preparation.",
+                              "isVeg": 1,
+                              "price": 5500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 7 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": ["License No. 21219194001890"]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Namaste",
+                      "area": "Hsr Layout",
+                      "completeAddress": "1086/A, 1087/A, 14th Main, 18th Cross Rd, near BDA Complex, III Sector, HSR Layout, Bengaluru, Karnataka 560102"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "a75deee8-92ae-449b-b500-036f3a265d08",
+  "sid": "exz7876a-fc19-4e72-9d50-b2f53ee3a79e",
+  "deviceId": "9dc01957-826b-39d2-2617-7b0ff54b8605",
+  "csrfToken": "O0Tn7QCyH7fN-PKblhnPsk-x8LAVCRqofK4ZeQB4"
+}
